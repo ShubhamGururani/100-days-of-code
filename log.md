@@ -19,12 +19,15 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: February 26, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through some exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** HTML feels easy enough.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. https://www.freecodecamp.org/challenges/turn-an-image-into-a-link
+2. https://www.freecodecamp.org/challenges/create-a-bulleted-unordered-list
+3. https://www.freecodecamp.org/challenges/create-an-ordered-list
+4. https://www.freecodecamp.org/challenges/create-a-text-field
+5. https://www.freecodecamp.org/challenges/add-placeholder-text-to-a-text-field
