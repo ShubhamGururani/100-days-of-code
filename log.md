@@ -35,7 +35,7 @@
 
 ### Day 2: February 27, 2018 Tuesday
 
-**Today's Progress**: Did some more exercises on FreeCodeCamp.
+**Today's Progress**: Did some more exercises on FreeCodeCamp. Solved two problems in CodeChef.
 
 **Thoughts** HTML feels easy enough. Really need to improve in Python.
 
