@@ -37,7 +37,7 @@
 
 **Today's Progress**: Did some more exercises on FreeCodeCamp.
 
-**Thoughts** HTML feels easy enough.
+**Thoughts** HTML feels easy enough. Really need to improve in Python.
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/challenges/create-a-form-element
