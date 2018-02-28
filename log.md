@@ -65,10 +65,38 @@
 
 ### Day 3: February 28, 2018 Wednesday
 
-**Today's Progress**: Did some more exercises on FreeCodeCamp. Solved two problems in CodeChef.
+**Today's Progress**: Solved two problems in CodeChef. Did some more exercises on FreeCodeCamp.
 
-**Thoughts**: HTML feels easy enough. Really need to improve in Python.
+**Thoughts**: Had to skip few questions on codechef due to lack of coding knowledge. Will improve for sure. Did some more exercises in freecodecamp. HTML and CSS part complete in freecodecamp. Yay!  
 
 **Link(s) to work**:
-1. https://www.codechef.com/problems/CCOOK
-2. https://www.codechef.com/problems/ADACRA
+1.  https://www.codechef.com/problems/CCOOK
+2.  https://www.codechef.com/problems/ADACRA
+3.  https://www.freecodecamp.org/challenges/prioritize-one-style-over-another
+4.  https://www.freecodecamp.org/challenges/override-styles-in-subsequent-css
+5.  https://www.freecodecamp.org/challenges/override-class-declarations-by-styling-id-attributes
+6.  https://www.freecodecamp.org/challenges/override-class-declarations-with-inline-styles
+7.  https://www.freecodecamp.org/challenges/override-all-other-styles-by-using-important
+8.  https://www.freecodecamp.org/challenges/use-hex-code-for-specific-colors
+9.  https://www.freecodecamp.org/challenges/use-hex-code-to-mix-colors
+10. https://www.freecodecamp.org/challenges/use-abbreviated-hex-code
+11. https://www.freecodecamp.org/challenges/use-rgb-values-to-color-elements
+12. https://www.freecodecamp.org/challenges/use-rgb-to-mix-colors
+13. https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers
+14. https://www.freecodecamp.org/challenges/make-images-mobile-responsive
+15. https://www.freecodecamp.org/challenges/center-text-with-bootstrap
+16. https://www.freecodecamp.org/challenges/create-a-bootstrap-button
+17. https://www.freecodecamp.org/challenges/create-a-block-element-bootstrap-button
+18. https://www.freecodecamp.org/challenges/taste-the-bootstrap-button-color-rainbow
+19. https://www.freecodecamp.org/challenges/call-out-optional-actions-with-button-info
+20. https://www.freecodecamp.org/challenges/warn-your-users-of-a-dangerous-action
+21. https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side
+22. https://www.freecodecamp.org/challenges/ditch-custom-css-for-bootstrap
+23. https://www.freecodecamp.org/challenges/use-spans-for-inline-elements
+24. https://www.freecodecamp.org/challenges/create-a-custom-heading
+25. https://www.freecodecamp.org/challenges/add-font-awesome-icons-to-our-buttons
+26. https://www.freecodecamp.org/challenges/add-font-awesome-icons-to-all-of-our-buttons
+27. https://www.freecodecamp.org/challenges/responsively-style-radio-buttons
+28. https://www.freecodecamp.org/challenges/responsively-style-checkboxes
+29. https://www.freecodecamp.org/challenges/style-text-inputs-as-form-controls
+30. 
