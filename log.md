@@ -23,9 +23,9 @@
 
 **Today's Progress**: I've gone through some exercises on FreeCodeCamp.
 
-**Thoughts** HTML feels easy enough.
+**Thoughts**: HTML feels easy enough.
 
-**Link(s) to work**
+**Link(s) to work**:
 1. https://www.freecodecamp.org/challenges/turn-an-image-into-a-link
 2. https://www.freecodecamp.org/challenges/create-a-bulleted-unordered-list
 3. https://www.freecodecamp.org/challenges/create-an-ordered-list
@@ -37,9 +37,9 @@
 
 **Today's Progress**: Did some more exercises on FreeCodeCamp. Solved two problems in CodeChef.
 
-**Thoughts** HTML feels easy enough. Really need to improve in Python.
+**Thoughts**: HTML feels easy enough. Really need to improve in Python.
 
-**Link(s) to work**
+**Link(s) to work**:
 1.  https://www.freecodecamp.org/challenges/create-a-form-element
 2.  https://www.freecodecamp.org/challenges/add-a-submit-button-to-a-form
 3.  https://www.freecodecamp.org/challenges/use-html5-to-require-a-field
@@ -61,3 +61,14 @@
 19. https://www.freecodecamp.org/challenges/use-clockwise-notation-to-specify-the-margin-of-an-element
 20. https://www.freecodecamp.org/challenges/style-the-html-body-element
 21. https://www.freecodecamp.org/challenges/inherit-styles-from-the-body-element
+
+
+### Day 3: February 28, 2018 Wednesday
+
+**Today's Progress**: Did some more exercises on FreeCodeCamp. Solved two problems in CodeChef.
+
+**Thoughts**: HTML feels easy enough. Really need to improve in Python.
+
+**Link(s) to work**:
+1. https://www.codechef.com/problems/CCOOK
+2. https://www.codechef.com/problems/ADACRA
