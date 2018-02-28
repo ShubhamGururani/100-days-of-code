@@ -9,3 +9,6 @@ Started doing exercises in freecodecamp (http://www.freecodecamp.org)
 
 ### R1D2
 Did some more exercises in freecodecamp. Tried my hand at python in codechef.
+
+### R1D3
+HTML5 and CSS part completed in freecodecamp. Learning to code in python by solving problems in codechef.
