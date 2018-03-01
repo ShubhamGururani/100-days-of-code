@@ -106,4 +106,12 @@
 13. https://www.freecodecamp.org/challenges/give-each-element-a-unique-id
 14. https://www.freecodecamp.org/challenges/label-bootstrap-buttons
 15. https://www.freecodecamp.org/challenges/use-comments-to-clarify-code
-16. 17. 18. 19. 20. 21. 
+16. https://www.freecodecamp.org/challenges/learn-how-script-tags-and-document-ready-work
+17. https://www.freecodecamp.org/challenges/target-html-elements-with-selectors-using-jquery
+18. https://www.freecodecamp.org/challenges/target-elements-by-class-using-jquery
+19. https://www.freecodecamp.org/challenges/target-elements-by-id-using-jquery
+20. https://www.freecodecamp.org/challenges/delete-your-jquery-functions
+21. https://www.freecodecamp.org/challenges/target-the-same-element-with-multiple-jquery-selectors
+22. https://www.freecodecamp.org/challenges/remove-classes-from-an-element-with-jquery
+23. https://www.freecodecamp.org/challenges/change-the-css-of-an-element-using-jquery
+24. https://www.freecodecamp.org/challenges/disable-an-element-using-jquery
