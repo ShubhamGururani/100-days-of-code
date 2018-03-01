@@ -106,9 +106,22 @@
 
 **Today's Progress**: Solved two problems in CodeChef. Did some more exercises on FreeCodeCamp.
 
-**Thoughts**: Solved a question in python in first attempt after a long time. :) Second question took almost 2.5 hrs. Need to learn different functions of python. :(  
+**Thoughts**: Solved a question in python in first attempt after a long time. :) Second question took almost 2.5 hrs. Need to learn different functions of python. :(  Python is a real struggle. 
 
 **Link(s) to work**:
 1.  https://www.codechef.com/problems/MATPAN
 2.  https://www.codechef.com/problems/SEGM01
-3.  
+3.  https://www.freecodecamp.org/challenges/create-a-bootstrap-headline
+4.  https://www.freecodecamp.org/challenges/house-our-page-within-a-bootstrap-container-fluid-div
+5.  https://www.freecodecamp.org/challenges/create-a-bootstrap-row
+6.  https://www.freecodecamp.org/challenges/split-your-bootstrap-row
+7.  https://www.freecodecamp.org/challenges/create-bootstrap-wells
+8.  https://www.freecodecamp.org/challenges/add-elements-within-your-bootstrap-wells
+9.  https://www.freecodecamp.org/challenges/apply-the-default-bootstrap-button-style
+10. https://www.freecodecamp.org/challenges/create-a-class-to-target-with-jquery-selectors
+11. https://www.freecodecamp.org/challenges/add-id-attributes-to-bootstrap-elements
+12. https://www.freecodecamp.org/challenges/label-bootstrap-wells
+13. https://www.freecodecamp.org/challenges/give-each-element-a-unique-id
+14. https://www.freecodecamp.org/challenges/label-bootstrap-buttons
+15. https://www.freecodecamp.org/challenges/use-comments-to-clarify-code
+16. 17. 18. 19. 20. 21. 
