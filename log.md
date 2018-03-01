@@ -100,3 +100,15 @@
 28. https://www.freecodecamp.org/challenges/responsively-style-checkboxes
 29. https://www.freecodecamp.org/challenges/style-text-inputs-as-form-controls
 30. https://www.freecodecamp.org/challenges/line-up-form-elements-responsively-with-bootstrap
+
+
+### Day 4: March 01, 2018 Thursday
+
+**Today's Progress**: Solved two problems in CodeChef. Did some more exercises on FreeCodeCamp.
+
+**Thoughts**: Solved a question in python in first attempt after a long time. :) Second question took almost 2.5 hrs. Need to learn different functions of python. :(  
+
+**Link(s) to work**:
+1.  https://www.codechef.com/problems/MATPAN
+2.  https://www.codechef.com/problems/SEGM01
+3.  
