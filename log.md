@@ -115,3 +115,21 @@
 22. https://www.freecodecamp.org/challenges/remove-classes-from-an-element-with-jquery
 23. https://www.freecodecamp.org/challenges/change-the-css-of-an-element-using-jquery
 24. https://www.freecodecamp.org/challenges/disable-an-element-using-jquery
+
+
+### Day 5: March 02, 2018 Friday
+
+**Today's Progress**: Did some more exercises on FreeCodeCamp.
+
+**Thoughts**: Holi holiday. 
+
+**Link(s) to work**:
+1. https://www.freecodecamp.org/challenges/change-text-inside-an-element-using-jquery
+2. https://www.freecodecamp.org/challenges/remove-an-element-using-jquery
+3. https://www.freecodecamp.org/challenges/use-appendto-to-move-elements-with-jquery
+4. https://www.freecodecamp.org/challenges/clone-an-element-using-jquery
+5. https://www.freecodecamp.org/challenges/target-the-parent-of-an-element-using-jquery
+6. https://www.freecodecamp.org/challenges/target-the-children-of-an-element-using-jquery
+7. https://www.freecodecamp.org/challenges/target-a-specific-child-of-an-element-using-jquery
+8. https://www.freecodecamp.org/challenges/target-even-numbered-elements-using-jquery
+9. https://www.freecodecamp.org/challenges/use-jquery-to-modify-the-entire-page
