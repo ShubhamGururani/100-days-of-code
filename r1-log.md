@@ -15,3 +15,9 @@ HTML5 and CSS part completed in freecodecamp. Learning to code in python by solv
 
 ### R1D4
 Bootstrap part completed in freecodecamp. Coding in python in codechef.
+
+### R1D5
+Some exercises in freecodecamp.
+
+### R1D6
+jQuery part completed in freecodecamp. Created a tribute page.
