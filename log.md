@@ -133,3 +133,14 @@
 7. https://www.freecodecamp.org/challenges/target-a-specific-child-of-an-element-using-jquery
 8. https://www.freecodecamp.org/challenges/target-even-numbered-elements-using-jquery
 9. https://www.freecodecamp.org/challenges/use-jquery-to-modify-the-entire-page
+
+
+### Day 6: March 03, 2018 Saturday
+
+**Today's Progress**: Created a tribute page for FreeCodeCamp exercise on codepen.
+
+**Thoughts**: Holi holiday. 
+
+**Link(s) to work**:
+1. https://www.freecodecamp.org/challenges/build-a-tribute-page
+
