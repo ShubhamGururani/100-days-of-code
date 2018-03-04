@@ -21,3 +21,6 @@ Some exercises in freecodecamp.
 
 ### R1D6
 jQuery part completed in freecodecamp. Created a tribute page.
+
+### R1D7
+Tried to create the protfolio page. Will complete it soon.
