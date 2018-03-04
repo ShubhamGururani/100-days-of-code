@@ -144,3 +144,12 @@
 **Link(s) to work**:
 1. https://www.freecodecamp.org/challenges/build-a-tribute-page
 
+
+### Day 7: March 04, 2018 Sunday
+
+**Today's Progress**: Tried creating the portfolio page for FreeCodeCamp exercise on codepen. Project still incomplete but under progress.
+
+**Thoughts**: Travelling holiday. 
+
+**Link(s) to work**:
+1. https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage
