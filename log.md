@@ -153,3 +153,15 @@
 
 **Link(s) to work**:
 1. https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage
+
+
+### Day 8: March 05, 2018 Monday
+
+**Today's Progress**: Made some progress on the portfolio page for FreeCodeCamp exercise on codepen. Project still incomplete. Did a couple of codechef problems.
+
+**Thoughts**: Portfolio doesn't look so good. Maybe I am missing something. 
+
+**Link(s) to work**:
+1. https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage
+2. https://www.codechef.com/problems/PPSUM
+3. 
