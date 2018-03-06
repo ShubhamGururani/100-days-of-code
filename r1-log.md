@@ -27,3 +27,6 @@ Tried to create the protfolio page. Will complete it soon.
 
 ### R1D8
 Made progress in the protfolio page. Doesn't look so good still. Solved some problems in codechef.
+
+### R1D9
+Remade tribute page. Solved a problem in codechef. Progress seems to be slowing down?
