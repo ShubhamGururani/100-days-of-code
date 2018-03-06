@@ -165,4 +165,14 @@
 1. https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage
 2. https://www.codechef.com/problems/PPSUM
 3. https://www.codechef.com/problems/CHEFSTLT
-4. 
+
+
+### Day 9: March 06, 2018 Tuesday
+
+**Today's Progress**: No progress made on the portfolio page as I had to remake the tribute page. Did a codechef problem.
+
+**Thoughts**: Will read instructions more carefully next time. ;)
+
+**Link(s) to work**:
+1. https://www.codechef.com/problems/COPS
+2. https://codepen.io/GururaniG/pen/LQvmJr (codepen link to tribute page)
