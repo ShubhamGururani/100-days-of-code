@@ -176,3 +176,15 @@
 **Link(s) to work**:
 1. https://www.codechef.com/problems/COPS
 2. https://codepen.io/GururaniG/pen/LQvmJr (codepen link to tribute page)
+
+
+### Day 10: March 07, 2018 Wednesday
+
+**Today's Progress**: Did two codechef problems.
+
+**Thoughts**: 
+
+**Link(s) to work**:
+1. https://www.codechef.com/problems/DWNLD
+2. https://www.codechef.com/problems/FRGTNLNG
+3. 
