@@ -30,3 +30,6 @@ Made progress in the protfolio page. Doesn't look so good still. Solved some pro
 
 ### R1D9
 Remade tribute page. Solved a problem in codechef. Progress seems to be slowing down?
+
+### R1D10
+Made some progress in the portfolio page. Did some codechef problems.
