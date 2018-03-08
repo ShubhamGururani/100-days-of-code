@@ -187,3 +187,13 @@
 **Link(s) to work**:
 1. https://www.codechef.com/problems/DWNLD
 2. https://www.codechef.com/problems/FRGTNLNG
+
+
+### Day 11: March 08, 2018 Thursday
+
+**Today's Progress**: Solved two codechef problems.
+
+**Thoughts**: 
+
+**Link(s) to work**:
+1.[fgvdsgsa](https://www.codechef.com/problems/easy)
