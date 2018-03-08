@@ -180,9 +180,9 @@
 
 ### Day 10: March 07, 2018 Wednesday
 
-**Today's Progress**: Did two codechef problems.
+**Today's Progress**: Did two codechef problems. Worked on the portfolio too.
 
-**Thoughts**: 
+**Thoughts**: ...
 
 **Link(s) to work**:
 1. https://www.codechef.com/problems/DWNLD
@@ -191,10 +191,10 @@
 
 ### Day 11: March 08, 2018 Thursday
 
-**Today's Progress**: Solved two codechef problems.
+**Today's Progress**: Solved two codechef problems. Worked on portfolio.
 
-**Thoughts**: 
+**Thoughts**: Today's questions were easy.
 
 **Link(s) to work**:
 1. [Piece of cake](https://www.codechef.com/problems/LCH15JAB)
-2. 
+2. [Grade The Steel](https://www.codechef.com/problems/FLOW014)
