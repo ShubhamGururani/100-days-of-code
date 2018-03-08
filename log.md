@@ -196,4 +196,5 @@
 **Thoughts**: 
 
 **Link(s) to work**:
-1.[fgvdsgsa](https://www.codechef.com/problems/easy)
+1. [Piece of cake](https://www.codechef.com/problems/LCH15JAB)
+2. 
