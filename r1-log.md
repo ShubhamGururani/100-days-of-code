@@ -33,3 +33,6 @@ Remade tribute page. Solved a problem in codechef. Progress seems to be slowing 
 
 ### R1D10
 Made some progress in the portfolio page. Did some codechef problems.
+
+### R1D11
+Portfolio page is taking a long time. Solved some codechef problems.
