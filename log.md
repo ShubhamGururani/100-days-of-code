@@ -198,3 +198,14 @@
 **Link(s) to work**:
 1. [Piece of cake](https://www.codechef.com/problems/LCH15JAB)
 2. [Grade The Steel](https://www.codechef.com/problems/FLOW014)
+
+
+### Day 12: March 09, 2018 Friday
+
+**Today's Progress**: Solved two codechef problems. Worked on portfolio.
+
+**Thoughts**: Today's questions were easy.
+
+**Link(s) to work**:
+1.[Kitchen Timetable](https://www.codechef.com/problems/KTTABLE)
+2.[Chef and Operators](https://www.codechef.com/problems/CHOPRT)
