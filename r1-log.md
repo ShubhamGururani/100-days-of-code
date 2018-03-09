@@ -36,3 +36,6 @@ Made some progress in the portfolio page. Did some codechef problems.
 
 ### R1D11
 Portfolio page is taking a long time. Solved some codechef problems.
+
+### R1D12
+Portfolio page is taking a long time. Solved some codechef problems.
