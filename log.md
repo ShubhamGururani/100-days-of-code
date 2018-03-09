@@ -207,5 +207,5 @@
 **Thoughts**: Today's questions were easy.
 
 **Link(s) to work**:
-1.[Kitchen Timetable](https://www.codechef.com/problems/KTTABLE)
-2.[Chef and Operators](https://www.codechef.com/problems/CHOPRT)
+1. [Kitchen Timetable](https://www.codechef.com/problems/KTTABLE)
+2. [Chef and Operators](https://www.codechef.com/problems/CHOPRT)
