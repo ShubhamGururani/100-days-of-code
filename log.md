@@ -209,3 +209,14 @@
 **Link(s) to work**:
 1. [Kitchen Timetable](https://www.codechef.com/problems/KTTABLE)
 2. [Chef and Operators](https://www.codechef.com/problems/CHOPRT)
+
+
+### Day 13: March 10, 2018 Saturday
+
+**Today's Progress**: Solved two codechef problems. Worked on portfolio.
+
+**Thoughts**: Today's questions were easy.
+
+**Link(s) to work**:
+1. [Servant](https://www.codechef.com/problems/FLOW008)
+2. [Finding Square Roots](https://www.codechef.com/problems/FSQRT)
