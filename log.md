@@ -215,7 +215,7 @@
 
 **Today's Progress**: Solved two codechef problems. Worked on portfolio.
 
-**Thoughts**: Today's questions were easy.
+**Thoughts**: Today's questions were easy. Portfolio i coming good. Now just need to add a bit more style and fonts.
 
 **Link(s) to work**:
 1. [Servant](https://www.codechef.com/problems/FLOW008)
