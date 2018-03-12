@@ -42,3 +42,9 @@ Portfolio page is taking a long time. Solved some codechef problems.
 
 ### R1D13
 Worked on portfolio. Now just need to add fonts and style a bit. Solved some codechef problems.
+
+### R1D14
+Solved two codechef problems.
+
+### R1D15
+Solved one codechef problem.
