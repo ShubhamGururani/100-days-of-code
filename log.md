@@ -232,3 +232,12 @@
 1. [First and Last Digit](https://www.codechef.com/problems/FLOW004)
 2. [Find Remainder](https://www.codechef.com/problems/FLOW002)
 
+
+### Day 15: March 12, 2018 Monday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Today's question was easy.
+
+**Link(s) to work**:
+https://www.codechef.com/problems/FLOW006
