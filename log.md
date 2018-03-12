@@ -215,8 +215,20 @@
 
 **Today's Progress**: Solved two codechef problems. Worked on portfolio.
 
-**Thoughts**: Today's questions were easy. Portfolio i coming good. Now just need to add a bit more style and fonts.
+**Thoughts**: Today's questions were easy. Portfolio is coming good. Now just need to add a bit more style and fonts.
 
 **Link(s) to work**:
 1. [Servant](https://www.codechef.com/problems/FLOW008)
 2. [Finding Square Roots](https://www.codechef.com/problems/FSQRT)
+
+
+### Day 14: March 11, 2018 Sunday
+
+**Today's Progress**: Solved two codechef problems.
+
+**Thoughts**: Today's questions were easy.
+
+**Link(s) to work**:
+1. [First and Last Digit](https://www.codechef.com/problems/FLOW004)
+2. [Find Remainder](https://www.codechef.com/problems/FLOW002)
+
