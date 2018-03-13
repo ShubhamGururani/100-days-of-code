@@ -241,3 +241,13 @@
 
 **Link(s) to work**:
 https://www.codechef.com/problems/FLOW006
+
+
+### Day 16: March 13, 2018 Tuesday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Today's question was easy.
+
+**Link(s) to work**:
+[Similar Dishes](https://www.codechef.com/problems/SIMDISH)
