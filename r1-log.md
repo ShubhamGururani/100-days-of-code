@@ -48,3 +48,6 @@ Solved two codechef problems.
 
 ### R1D15
 Solved one codechef problem.
+
+### R1D16
+Solved one codechef problem.
