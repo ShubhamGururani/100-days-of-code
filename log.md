@@ -22,8 +22,8 @@
 **Thoughts**: HTML feels easy enough. Really need to improve in Python.
 
 **Link(s) to work**:
-1.  https://www.freecodecamp.org/challenges/create-a-form-element
-2.  https://www.freecodecamp.org/challenges/add-a-submit-button-to-a-form
+1.  [create-a-form-element](https://www.freecodecamp.org/challenges/create-a-form-element)
+2.  [add-a-submit-button-to-a-form](https://www.freecodecamp.org/challenges/add-a-submit-button-to-a-form)
 3.  https://www.freecodecamp.org/challenges/use-html5-to-require-a-field
 4.  https://www.freecodecamp.org/challenges/create-a-set-of-radio-buttons
 5.  https://www.freecodecamp.org/challenges/create-a-set-of-checkboxes
@@ -40,9 +40,9 @@
 16. https://www.freecodecamp.org/challenges/add-different-padding-to-each-side-of-an-element
 17. https://www.freecodecamp.org/challenges/add-different-margins-to-each-side-of-an-element
 18. https://www.freecodecamp.org/challenges/use-clockwise-notation-to-specify-the-padding-of-an-element
-19. https://www.freecodecamp.org/challenges/use-clockwise-notation-to-specify-the-margin-of-an-element
-20. https://www.freecodecamp.org/challenges/style-the-html-body-element
-21. https://www.freecodecamp.org/challenges/inherit-styles-from-the-body-element
+19. [use-clockwise-notation-to-specify-the-margin-of-an-element](https://www.freecodecamp.org/challenges/use-clockwise-notation-to-specify-the-margin-of-an-element)
+20. [style-the-html-body-element](https://www.freecodecamp.org/challenges/style-the-html-body-element)
+21. [inherit-styles-from-the-body-element](https://www.freecodecamp.org/challenges/inherit-styles-from-the-body-element)
 
 
 ### Day 3: February 28, 2018 Wednesday
@@ -162,9 +162,9 @@
 **Thoughts**: Portfolio doesn't look so good. Maybe I am missing something. 
 
 **Link(s) to work**:
-1. https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage
-2. https://www.codechef.com/problems/PPSUM
-3. https://www.codechef.com/problems/CHEFSTLT
+1. [build-a-personal-portfolio-webpage](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
+2. [Puppy and Sum](https://www.codechef.com/problems/PPSUM)
+3. [Chef and Two Strings](https://www.codechef.com/problems/CHEFSTLT)
 
 
 ### Day 9: March 06, 2018 Tuesday
@@ -174,8 +174,8 @@
 **Thoughts**: Will read instructions more carefully next time. ;)
 
 **Link(s) to work**:
-1. https://www.codechef.com/problems/COPS
-2. https://codepen.io/GururaniG/pen/LQvmJr (codepen link to tribute page)
+1. [Cops and the Thief Devu](https://www.codechef.com/problems/COPS)
+2. [codepen link to tribute page](https://codepen.io/GururaniG/pen/LQvmJr)
 
 
 ### Day 10: March 07, 2018 Wednesday
@@ -185,8 +185,8 @@
 **Thoughts**: ...
 
 **Link(s) to work**:
-1. https://www.codechef.com/problems/DWNLD
-2. https://www.codechef.com/problems/FRGTNLNG
+1. [Download file](https://www.codechef.com/problems/DWNLD)
+2. [Forgotten Language](https://www.codechef.com/problems/FRGTNLNG)
 
 
 ### Day 11: March 08, 2018 Thursday
@@ -240,7 +240,7 @@
 **Thoughts**: Today's question was easy. Tests!
 
 **Link(s) to work**:
-https://www.codechef.com/problems/FLOW006
+[Sum of Digits](https://www.codechef.com/problems/FLOW006)
 
 
 ### Day 16: March 13, 2018 Tuesday
@@ -255,9 +255,9 @@ https://www.codechef.com/problems/FLOW006
 
 ### Day 17: March 14, 2018 Wednesday
 
-**Today's Progress**: Solved two codechef problems.
+**Today's Progress**: Solved two codechef problems. Worked on portfolio.
 
-**Thoughts**: Today's question was easy. Tests ended!
+**Thoughts**: Today's question were easy enough. Tests ended! Back to wot=rking on portfolio page...
 
 **Link(s) to work**:
 1. [Chef and Employment Test](https://www.codechef.com/problems/CK87MEDI)
