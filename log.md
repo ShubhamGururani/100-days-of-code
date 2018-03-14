@@ -237,7 +237,7 @@
 
 **Today's Progress**: Solved one codechef problem.
 
-**Thoughts**: Today's question was easy.
+**Thoughts**: Today's question was easy. Tests!
 
 **Link(s) to work**:
 https://www.codechef.com/problems/FLOW006
@@ -247,7 +247,18 @@ https://www.codechef.com/problems/FLOW006
 
 **Today's Progress**: Solved one codechef problem.
 
-**Thoughts**: Today's question was easy.
+**Thoughts**: Today's question was easy. Tests!
 
 **Link(s) to work**:
 [Similar Dishes](https://www.codechef.com/problems/SIMDISH)
+
+
+### Day 17: March 14, 2018 Wednesday
+
+**Today's Progress**: Solved two codechef problems.
+
+**Thoughts**: Today's question was easy. Tests ended!
+
+**Link(s) to work**:
+1. [Chef and Employment Test](https://www.codechef.com/problems/CK87MEDI)
+2. 
