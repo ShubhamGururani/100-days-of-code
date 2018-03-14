@@ -51,3 +51,6 @@ Solved one codechef problem.
 
 ### R1D16
 Solved one codechef problem.
+
+### R1D16
+Solved two codechef problems. Back to working on portfolio page.
