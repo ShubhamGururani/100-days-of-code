@@ -257,7 +257,7 @@
 
 **Today's Progress**: Solved two codechef problems. Worked on portfolio.
 
-**Thoughts**: Today's question were easy enough. Tests ended! Back to wot=rking on portfolio page...
+**Thoughts**: Today's question were easy enough. Tests ended! Back to working on portfolio page...
 
 **Link(s) to work**:
 1. [Chef and Employment Test](https://www.codechef.com/problems/CK87MEDI)
