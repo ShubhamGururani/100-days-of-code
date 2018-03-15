@@ -54,3 +54,9 @@ Solved one codechef problem.
 
 ### R1D16
 Solved two codechef problems. Back to working on portfolio page.
+
+### R1D17
+Solved two codechef problems. Back to working on portfolio page.
+
+### R1D18
+Solved one codechef problem. Portfolio page done.
