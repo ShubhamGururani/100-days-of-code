@@ -262,3 +262,13 @@
 **Link(s) to work**:
 1. [Chef and Employment Test](https://www.codechef.com/problems/CK87MEDI)
 2. [From heaven to earth](https://www.codechef.com/problems/ELEVSTRS)
+
+
+### Day 18: March 15, 2018 Thursday
+
+**Today's Progress**: Solved one codechef problem. Portfolio complete!
+
+**Thoughts**: Today's question were easy enough. 
+
+**Link(s) to work**
+1. [Chef and his Students](https://www.codechef.com/problems/CHEFSTUD)
