@@ -8,11 +8,7 @@
 **Thoughts**: HTML feels easy enough.
 
 **Link(s) to work**:
-1. [turn-an-image-into-a-link](https://www.freecodecamp.org/challenges/turn-an-image-into-a-link)
-2. [create-a-bulleted-unordered-list](https://www.freecodecamp.org/challenges/create-a-bulleted-unordered-list)
-3. [create-an-ordered-list](https://www.freecodecamp.org/challenges/create-an-ordered-list)
-4. [create-a-text-field](https://www.freecodecamp.org/challenges/create-a-text-field)
-5. [add-placeholder-text-to-a-text-field](https://www.freecodecamp.org/challenges/add-placeholder-text-to-a-text-field)
+1. [turn-an-image-into-a-link](https://www.freecodecamp.org/challenges/turn-an-image-into-a-link), 2. [create-a-bulleted-unordered-list](https://www.freecodecamp.org/challenges/create-a-bulleted-unordered-list), 3. [create-an-ordered-list](https://www.freecodecamp.org/challenges/create-an-ordered-list), 4. [create-a-text-field](https://www.freecodecamp.org/challenges/create-a-text-field), 5. [add-placeholder-text-to-a-text-field](https://www.freecodecamp.org/challenges/add-placeholder-text-to-a-text-field)
 
 
 ### Day 2: February 27, 2018 Tuesday
