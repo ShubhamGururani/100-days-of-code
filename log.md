@@ -142,7 +142,7 @@
 **Thoughts**: Holi holiday. 
 
 **Link(s) to work**:
-1. https://www.freecodecamp.org/challenges/build-a-tribute-page
+1. [build-a-tribute-page](https://www.freecodecamp.org/challenges/build-a-tribute-page)
 
 
 ### Day 7: March 04, 2018 Sunday
@@ -152,7 +152,7 @@
 **Thoughts**: Travelling holiday. 
 
 **Link(s) to work**:
-1. https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage
+1. [build-a-personal-portfolio-webpage](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage)
 
 
 ### Day 8: March 05, 2018 Monday
@@ -272,3 +272,13 @@
 
 **Link(s) to work**
 1. [Chef and his Students](https://www.codechef.com/problems/CHEFSTUD)
+
+
+### Day 19: March 16, 2018 Friday
+
+**Today's Progress**: Solved one codechef problem. Portfolio released for public to see. Looking for some good feedback!
+
+**Thoughts**: Today's question was easy enough. 
+
+**Link(s) to work**
+1. [Days in Month](https://www.codechef.com/problems/NW1)
