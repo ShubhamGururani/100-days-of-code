@@ -60,3 +60,6 @@ Solved two codechef problems. Back to working on portfolio page.
 
 ### R1D18
 Solved one codechef problem. Portfolio page done.
+
+### R1D19
+Solved one codechef problem. Portfolio page released for public.
