@@ -63,3 +63,6 @@ Solved one codechef problem. Portfolio page done.
 
 ### R1D19
 Solved one codechef problem. Portfolio page released for public.
+
+### R1D20
+Solved one codechef problem. Improved portfolio.
