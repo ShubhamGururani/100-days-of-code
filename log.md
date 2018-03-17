@@ -278,3 +278,14 @@
 
 **Link(s) to work**
 1. [Days in Month](https://www.codechef.com/problems/NW1)
+
+
+
+### Day 20: March 17, 2018 Saturday
+
+**Today's Progress**: Solved one codechef problem. Improved the portfolio page
+
+**Thoughts**: Today's question was easy enough. 
+
+**Link(s) to work**
+1. [Chef And His Characters](https://www.codechef.com/problems/CHEFCHR)
