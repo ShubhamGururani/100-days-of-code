@@ -280,7 +280,6 @@
 1. [Days in Month](https://www.codechef.com/problems/NW1)
 
 
-
 ### Day 20: March 17, 2018 Saturday
 
 **Today's Progress**: Solved one codechef problem. Improved the portfolio page
@@ -289,3 +288,14 @@
 
 **Link(s) to work**
 1. [Chef And His Characters](https://www.codechef.com/problems/CHEFCHR)
+
+
+### Day 21: March 18, 2018 Sunday
+
+**Today's Progress**: Solved some codechef problems. Did some exercises on freecodecamp.
+
+**Thoughts**: Today's questions were easy enough. 
+
+**Link(s) to work**
+1. [Chef and His Apartment Dues](https://www.codechef.com/problems/CHEFAPAR)
+2. 
