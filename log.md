@@ -299,3 +299,14 @@
 **Link(s) to work**
 1. [Chef and His Apartment Dues](https://www.codechef.com/problems/CHEFAPAR)
 2. 
+
+
+### Day 22: March 19, 2018 Monday
+
+**Today's Progress**: Solved some codechef problems.
+
+**Thoughts**: Today's questions were easy enough. 
+
+**Link(s) to work**
+1. [A Big Sale](https://www.codechef.com/problems/BIGSALE)
+2. [Ordering Teams](https://www.codechef.com/problems/ORDTEAMS)
