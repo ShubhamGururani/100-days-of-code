@@ -67,5 +67,8 @@ Solved one codechef problem. Portfolio page released for public.
 ### R1D20
 Solved one codechef problem. Improved portfolio.
 
-### R!D21
+### R1D21
 Solved some questions on freecodecamp and codechef.
+
+### R1D22
+Solved some questions on codechef.
