@@ -72,3 +72,6 @@ Solved some questions on freecodecamp and codechef.
 
 ### R1D22
 Solved some questions on codechef.
+
+### R1D23
+Solved some questions on codechef.
