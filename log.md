@@ -310,3 +310,14 @@
 **Link(s) to work**
 1. [A Big Sale](https://www.codechef.com/problems/BIGSALE)
 2. [Ordering Teams](https://www.codechef.com/problems/ORDTEAMS)
+
+
+### Day 23: March 20, 2018 Tuesday
+
+**Today's Progress**: Solved some codechef problems.
+
+**Thoughts**: Today's questions were easy enough. 
+
+**Link(s) to work**
+1. [J - Reached Safely Or Not](https://www.codechef.com/problems/ZUBREACH)
+2. [Chef and Cook-Off Contests](https://www.codechef.com/problems/C00K0FF)
