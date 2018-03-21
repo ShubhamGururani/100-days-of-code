@@ -321,3 +321,13 @@
 **Link(s) to work**
 1. [J - Reached Safely Or Not](https://www.codechef.com/problems/ZUBREACH)
 2. [Chef and Cook-Off Contests](https://www.codechef.com/problems/C00K0FF)
+
+
+### Day 24: March 21, 2018 Wednesday
+
+**Today's Progress**: Solved some codechef problems. Did some JavaScript in freecodecamp.
+
+**Thoughts**: Today's questions were easy enough. 
+
+**Link(s) to work**
+1. [Good and Bad Persons](https://www.codechef.com/problems/GOODBAD)
