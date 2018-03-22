@@ -75,3 +75,9 @@ Solved some questions on codechef.
 
 ### R1D23
 Solved some questions on codechef.
+
+### R1D24
+Solved some codechef and freecodeacamp problems
+
+### R1D25
+Solved one codechef problem and some JavaScript in freecodecamp. Learning algorithms.
