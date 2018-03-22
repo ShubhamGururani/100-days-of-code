@@ -331,3 +331,13 @@
 
 **Link(s) to work**
 1. [Good and Bad Persons](https://www.codechef.com/problems/GOODBAD), 2. [declare-javascript-variables](https://www.freecodecamp.org/challenges/declare-javascript-variables), 3. [storing-values-with-the-assignment-operator](https://www.freecodecamp.org/challenges/storing-values-with-the-assignment-operator), 4. [variables-with-the-assignment-operator](https://www.freecodecamp.org/challenges/initializing-variables-with-the-assignment-operator), 5. [understanding-uninitialized-variables](https://www.freecodecamp.org/challenges/understanding-uninitialized-variables), 6. [understanding-case-sensitivity-in-variables](https://www.freecodecamp.org/challenges/understanding-case-sensitivity-in-variables), 7. [add-two-numbers-with-javascript](https://www.freecodecamp.org/challenges/add-two-numbers-with-javascript), 8. [subtract-one-number-from-another-with-javascript](https://www.freecodecamp.org/challenges/subtract-one-number-from-another-with-javascript)
+
+
+### Day 25: March 22, 2018 Thursday
+
+**Today's Progress**: Solved one codechef problems. Did some JavaScript in freecodecamp.
+
+**Thoughts**: Today's questions were easy enough. 
+
+**Link(s) to work**
+1. [Chef and Chocolate](https://www.codechef.com/problems/CHCHCL), 2. 
