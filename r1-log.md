@@ -81,3 +81,6 @@ Solved some codechef and freecodeacamp problems
 
 ### R1D25
 Solved one codechef problem and some JavaScript in freecodecamp. Learning algorithms.
+
+### R1D26
+Solved two codechef problems and some JavaScript in freecodecamp.
