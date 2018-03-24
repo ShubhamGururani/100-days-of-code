@@ -84,3 +84,6 @@ Solved one codechef problem and some JavaScript in freecodecamp. Learning algori
 
 ### R1D26
 Solved two codechef problems and some JavaScript in freecodecamp.
+
+### R1D27
+Solved a codechef problem and some JavaScript in freecodecamp.
