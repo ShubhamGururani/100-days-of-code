@@ -361,3 +361,13 @@
 
 **Link(s) to work**
 1. [Villages and Tribes](https://www.codechef.com/problems/VILTRIBE), 2. [manipulate-arrays-with-shift](https://www.freecodecamp.org/challenges/manipulate-arrays-with-shift), 3. [manipulate-arrays-with-unshift](https://www.freecodecamp.org/challenges/manipulate-arrays-with-unshift), 4. [shopping-list](https://www.freecodecamp.org/challenges/shopping-list), 5. [reusable-javascript-with-functions)](https://www.freecodecamp.org/challenges/write-reusable-javascript-with-functions), 6. [functions-with-arguments](https://www.freecodecamp.org/challenges/passing-values-to-functions-with-arguments)
+
+
+### Day 28: March 25, 2018 Sunday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Today's questions were easy enough. Internet speed too slow! :(
+
+**Link(s) to work**
+[Chef Judges a Competition](https://www.codechef.com/problems/CO92JUDG)
