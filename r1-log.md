@@ -87,3 +87,6 @@ Solved two codechef problems and some JavaScript in freecodecamp.
 
 ### R1D27
 Solved a codechef problem and some JavaScript in freecodecamp.
+
+### R1D28
+Solved one codechef problem. Internet spped almost negligible.
