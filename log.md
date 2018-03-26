@@ -371,3 +371,14 @@
 
 **Link(s) to work**
 [Chef Judges a Competition](https://www.codechef.com/problems/CO92JUDG)
+
+
+### Day 29: March 26, 2018 Monday
+
+**Today's Progress**: Solved two codechef problems. Stuck on another in hackerearth.
+
+**Thoughts**: Today's questions were easy enough.
+
+**Link(s) to work**
+1. [Chef and Glove](https://www.codechef.com/problems/CHEGLOVE)
+2. [Coder Life Matters](https://www.codechef.com/problems/CODERLIF)
