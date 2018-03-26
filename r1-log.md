@@ -90,3 +90,6 @@ Solved a codechef problem and some JavaScript in freecodecamp.
 
 ### R1D28
 Solved one codechef problem. Internet spped almost negligible.
+
+### R1D29
+2 questions on codechef today.
