@@ -382,3 +382,13 @@
 **Link(s) to work**
 1. [Chef and Glove](https://www.codechef.com/problems/CHEGLOVE)
 2. [Coder Life Matters](https://www.codechef.com/problems/CODERLIF)
+
+
+### Day 30: March 27, 2018 Tuesday
+
+**Today's Progress**: Solved some codechef problems.
+
+**Thoughts**: Today's questions were easy enough.
+
+**Link(s) to work**
+1. [Football Match](https://www.codechef.com/problems/FBMT)
