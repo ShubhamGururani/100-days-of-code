@@ -392,3 +392,13 @@
 
 **Link(s) to work**
 1. [Football Match](https://www.codechef.com/problems/FBMT)
+
+
+### Day 31: March 28, 2018 Wednesday
+
+**Today's Progress**: Solved some codechef problems. Did some JavaScript on freecodecamp.
+
+**Thoughts**: Today's questions were easy enough. Moved on to the easy section on codechef. Will still try to complete the beginner part.
+
+**Link(s) to work**
+1. [Coin Flip](https://www.codechef.com/problems/CONFLIP), 2. [global-scope-and-functions](https://www.freecodecamp.org/challenges/global-scope-and-functions), 3. [local-scope-and-functions](https://www.freecodecamp.org/challenges/local-scope-and-functions), 4. [global-vs-local-scope-in-functions](https://www.freecodecamp.org/challenges/global-vs-local-scope-in-functions), 5. [Return a value](https://www.freecodecamp.org/challenges/return-a-value-from-a-function-with-return)
