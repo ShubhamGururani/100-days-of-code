@@ -93,3 +93,9 @@ Solved one codechef problem. Internet spped almost negligible.
 
 ### R1D29
 2 questions on codechef today.
+
+### R1D30
+Solved one codechef question.
+
+### R1D31
+Solved codechef problem in easy part. Did some JavaScript on freecodecamp.
