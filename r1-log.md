@@ -99,3 +99,6 @@ Solved one codechef question.
 
 ### R1D31
 Solved codechef problem in easy part. Did some JavaScript on freecodecamp.
+
+### R1D32
+Solved one codechef question and did JavaScript on freecodecamp.
