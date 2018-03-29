@@ -18,27 +18,8 @@
 **Thoughts**: HTML feels easy enough. Really need to improve in Python.
 
 **Link(s) to work**:
-1.  [create-a-form-element](https://www.freecodecamp.org/challenges/create-a-form-element)
-2.  [add-a-submit-button-to-a-form](https://www.freecodecamp.org/challenges/add-a-submit-button-to-a-form)
-3.  https://www.freecodecamp.org/challenges/use-html5-to-require-a-field
-4.  https://www.freecodecamp.org/challenges/create-a-set-of-radio-buttons
-5.  https://www.freecodecamp.org/challenges/create-a-set-of-checkboxes
-6.  https://www.freecodecamp.org/challenges/check-radio-buttons-and-checkboxes-by-default
-7.  https://www.freecodecamp.org/challenges/nest-many-elements-within-a-single-div-element
-8.  https://www.codechef.com/problems/ICPC16A
-9.  https://www.codechef.com/problems/VCS
-10. https://www.freecodecamp.org/challenges/give-a-background-color-to-a-div-element
-11. https://www.freecodecamp.org/challenges/set-the-id-of-an-element
-12. https://www.freecodecamp.org/challenges/use-an-id-attribute-to-style-an-element
-13. https://www.freecodecamp.org/challenges/adjusting-the-padding-of-an-element
-14. https://www.freecodecamp.org/challenges/adjust-the-margin-of-an-element
-15. https://www.freecodecamp.org/challenges/add-a-negative-margin-to-an-element
-16. https://www.freecodecamp.org/challenges/add-different-padding-to-each-side-of-an-element
-17. https://www.freecodecamp.org/challenges/add-different-margins-to-each-side-of-an-element
-18. https://www.freecodecamp.org/challenges/use-clockwise-notation-to-specify-the-padding-of-an-element
-19. [use-clockwise-notation-to-specify-the-margin-of-an-element](https://www.freecodecamp.org/challenges/use-clockwise-notation-to-specify-the-margin-of-an-element)
-20. [style-the-html-body-element](https://www.freecodecamp.org/challenges/style-the-html-body-element)
-21. [inherit-styles-from-the-body-element](https://www.freecodecamp.org/challenges/inherit-styles-from-the-body-element)
+1.  [create-a-form-element](https://www.freecodecamp.org/challenges/create-a-form-element), 2. [add-a-submit-button-to-a-form](https://www.freecodecamp.org/challenges/add-a-submit-button-to-a-form), 3. [use-html5-to-require-a-field](https://www.freecodecamp.org/challenges/use-html5-to-require-a-field), 4. [create-a-set-of-radio-buttons](https://www.freecodecamp.org/challenges/create-a-set-of-radio-buttons), 5. [create-a-set-of-checkboxes](https://www.freecodecamp.org/challenges/create-a-set-of-checkboxes), 6. [check-radio-buttons-and-checkboxes-by-default](https://www.freecodecamp.org/challenges/check-radio-buttons-and-checkboxes-by-default), 7. [nest-many-elements-within-a-single-div-element](https://www.freecodecamp.org/challenges/nest-many-elements-within-a-single-div-element), 8. [Help Lost Robot!](https://www.codechef.com/problems/ICPC16A), 9. [Version Control System](https://www.codechef.com/problems/VCS), 10. [give-a-background-color-to-a-div-element](https://www.freecodecamp.org/challenges/give-a-background-color-to-a-div-element)
+11. [set-the-id-of-an-element](https://www.freecodecamp.org/challenges/set-the-id-of-an-element), 12. [use-an-id-attribute-to-style-an-element](https://www.freecodecamp.org/challenges/use-an-id-attribute-to-style-an-element), 13. [adjusting-the-padding-of-an-element](https://www.freecodecamp.org/challenges/adjusting-the-padding-of-an-element), 14. [adjust-the-margin-of-an-element](https://www.freecodecamp.org/challenges/adjust-the-margin-of-an-element), 15. [add-a-negative-margin-to-an-element](https://www.freecodecamp.org/challenges/add-a-negative-margin-to-an-element), 16. [add-different-padding-to-each-side-of-an-element](https://www.freecodecamp.org/challenges/add-different-padding-to-each-side-of-an-element), 17. [add-different-margins-to-each-side-of-an-element](https://www.freecodecamp.org/challenges/add-different-margins-to-each-side-of-an-element), 18. [use-clockwise-notation-to-specify-the-padding-of-an-element](https://www.freecodecamp.org/challenges/use-clockwise-notation-to-specify-the-padding-of-an-element), 19. [use-clockwise-notation-to-specify-the-margin-of-an-element](https://www.freecodecamp.org/challenges/use-clockwise-notation-to-specify-the-margin-of-an-element), 20. [style-the-html-body-element](https://www.freecodecamp.org/challenges/style-the-html-body-element), 21. [inherit-styles-from-the-body-element](https://www.freecodecamp.org/challenges/inherit-styles-from-the-body-element)
 
 
 ### Day 3: February 28, 2018 Wednesday
