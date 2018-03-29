@@ -402,3 +402,13 @@
 
 **Link(s) to work**
 1. [Coin Flip](https://www.codechef.com/problems/CONFLIP), 2. [global-scope-and-functions](https://www.freecodecamp.org/challenges/global-scope-and-functions), 3. [local-scope-and-functions](https://www.freecodecamp.org/challenges/local-scope-and-functions), 4. [global-vs-local-scope-in-functions](https://www.freecodecamp.org/challenges/global-vs-local-scope-in-functions), 5. [Return a value](https://www.freecodecamp.org/challenges/return-a-value-from-a-function-with-return)
+
+
+### Day 32: March 29, 2018 Thursday
+
+**Today's Progress**: Solved some codechef problems. Did some JavaScript on freecodecamp.
+
+**Thoughts**: Today's questions were easy.
+
+**Link(s) to work**
+1. [Cleaning Up](https://www.codechef.com/problems/CLEANUP), 2. []()
