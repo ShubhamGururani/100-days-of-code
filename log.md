@@ -392,7 +392,7 @@
 **Thoughts**: Today's questions were easy.
 
 **Link(s) to work**
-1. [Cleaning Up](https://www.codechef.com/problems/CLEANUP), 2. [assignment-with-a-returned-value](https://www.freecodecamp.org/challenges/assignment-with-a-returned-value), 3. [stand-in-line](https://www.freecodecamp.org/challenges/stand-in-line), 4. [understanding-boolean-values](https://www.freecodecamp.org/challenges/understanding-boolean-values), 5. []()
+1. [Cleaning Up](https://www.codechef.com/problems/CLEANUP), 2. [assignment-with-a-returned-value](https://www.freecodecamp.org/challenges/assignment-with-a-returned-value), 3. [stand-in-line](https://www.freecodecamp.org/challenges/stand-in-line), 4. [understanding-boolean-values](https://www.freecodecamp.org/challenges/understanding-boolean-values)
 
 
 ### Day 33: March 30, 2018 Friday
