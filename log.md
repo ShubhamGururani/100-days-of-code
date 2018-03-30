@@ -387,9 +387,19 @@
 
 ### Day 32: March 29, 2018 Thursday
 
-**Today's Progress**: Solved some codechef problems. Did some JavaScript on freecodecamp.
+**Today's Progress**: Solved one codechef problem. Did some JavaScript on freecodecamp.
 
 **Thoughts**: Today's questions were easy.
 
 **Link(s) to work**
 1. [Cleaning Up](https://www.codechef.com/problems/CLEANUP), 2. [assignment-with-a-returned-value](https://www.freecodecamp.org/challenges/assignment-with-a-returned-value), 3. [stand-in-line](https://www.freecodecamp.org/challenges/stand-in-line), 4. [understanding-boolean-values](https://www.freecodecamp.org/challenges/understanding-boolean-values), 5. []()
+
+
+### Day 33: March 30, 2018 Friday
+
+**Today's Progress**: Solved some codechef problems. Did some JavaScript on freecodecamp.
+
+**Thoughts**: Today's questions were easy.
+
+**Link(s) to work**
+1. [if-statements](https://www.freecodecamp.org/challenges/use-conditional-logic-with-if-statements), 2. [equality-operator](https://www.freecodecamp.org/challenges/comparison-with-the-equality-operator), 3. [strict-equality-operator](https://www.freecodecamp.org/challenges/comparison-with-the-strict-equality-operator), 4. [inequality-operator](https://www.freecodecamp.org/challenges/comparison-with-the-inequality-operator), 5. [strict-inequality-operator](https://www.freecodecamp.org/challenges/comparison-with-the-strict-inequality-operator), 6. [greater-than-operator](https://www.freecodecamp.org/challenges/comparison-with-the-greater-than-operator), 7. [greater-than-or-equal-to-operator](https://www.freecodecamp.org/challenges/comparison-with-the-greater-than-or-equal-to-operator), 8. [less-than-operator](https://www.freecodecamp.org/challenges/comparison-with-the-less-than-operator), 9. [less-than-or-equal-to-operator](https://www.freecodecamp.org/challenges/comparison-with-the-less-than-or-equal-to-operator), 10. [logical-and-operator](https://www.freecodecamp.org/challenges/comparisons-with-the-logical-and-operator), 11. [logical-or-operator](https://www.freecodecamp.org/challenges/comparisons-with-the-logical-or-operator), 12. [introducing-else-statements](https://www.freecodecamp.org/challenges/introducing-else-statements), 13. [introducing-else-if-statements](https://www.freecodecamp.org/challenges/introducing-else-if-statements), 14. [logical-order-in-if-else-statements](https://www.freecodecamp.org/challenges/logical-order-in-if-else-statements), 15. [chaining-if-else-statements](https://www.freecodecamp.org/challenges/chaining-if-else-statements), 16. [golf-code](https://www.freecodecamp.org/challenges/golf-code), 17. [switch-statements](https://www.freecodecamp.org/challenges/selecting-from-many-options-with-switch-statements), 18. [default-option-in-switch-statements](https://www.freecodecamp.org/challenges/adding-a-default-option-in-switch-statements), 19. [multiple-identical-options-in-switch-statements](https://www.freecodecamp.org/challenges/multiple-identical-options-in-switch-statements), 20. [replacing-if-else-chains-with-switch](https://www.freecodecamp.org/challenges/replacing-if-else-chains-with-switch), 21. [](), 22. [](), 23. [](), 24. [](), 25. [](), 26. [](), 27. [](), 28. [](), 29. [](), 30. [](), 31. [](), 32. [](), 33. [](), 34. [](), 35. [](), 36. [](), 37. [](), 38. [](), 39. [](), 40. []()
