@@ -102,3 +102,9 @@ Solved codechef problem in easy part. Did some JavaScript on freecodecamp.
 
 ### R1D32
 Solved one codechef question and did JavaScript on freecodecamp.
+
+### R1D33
+Solved two codechef problems and finished the basic JavaScript part in fcc.
+
+### R1D34
+Solved one codechef problem and some object oriented and functional JavaScript on fcc.
