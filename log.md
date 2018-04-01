@@ -413,3 +413,13 @@
 
 **Link(s) to work**
 1. [Life, the Universe, and Everything](https://www.codechef.com/problems/TEST), 2. [declare-javascript-objects-as-variables](https://www.freecodecamp.org/challenges/declare-javascript-objects-as-variables), 3.[construct-javascript-objects-with-functions](https://www.freecodecamp.org/challenges/construct-javascript-objects-with-functions), 4. [make-instances-of-objects-with-a-constructor-function](https://www.freecodecamp.org/challenges/make-instances-of-objects-with-a-constructor-function), 5. [make-unique-objects-by-passing-parameters-to-our-constructor](https://www.freecodecamp.org/challenges/make-unique-objects-by-passing-parameters-to-our-constructor)
+
+
+### Day 35: April 01, 2018 Sunday
+
+**Today's Progress**: Solved two codechef problems.
+
+**Thoughts**: Today's questions were easy.
+
+**Link(s) to work**
+1. [Racing Horses](https://www.codechef.com/problems/HORSES), 2. [Nothing in Common](https://www.codechef.com/problems/NOTINCOM)
