@@ -407,7 +407,7 @@
 
 ### Day 34: March 31, 2018 Saturday
 
-**Today's Progress**: Solved one codechef problem. Not much progress today as I have to travel tomorrow.
+**Today's Progress**: Solved one codechef problem. Not much progress today as I have to travel tomorrow so sleeping early.
 
 **Thoughts**: Today's questions were easy.
 
