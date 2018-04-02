@@ -108,3 +108,9 @@ Solved two codechef problems and finished the basic JavaScript part in fcc.
 
 ### R1D34
 Solved one codechef problem and some object oriented and functional JavaScript on fcc.
+
+### R1D35
+Solved two codechef problems.
+
+### R1D34
+Solved one codechef problem.
