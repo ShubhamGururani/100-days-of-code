@@ -423,3 +423,13 @@
 
 **Link(s) to work**
 1. [Racing Horses](https://www.codechef.com/problems/HORSES), 2. [Nothing in Common](https://www.codechef.com/problems/NOTINCOM)
+
+
+### Day 36: April 02, 2018 Monday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Today's questions were easy.
+
+**Link(s) to work**
+[Bear and Milky Cookies](https://www.codechef.com/problems/COOMILK)
