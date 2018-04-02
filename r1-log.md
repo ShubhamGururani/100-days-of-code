@@ -112,5 +112,5 @@ Solved one codechef problem and some object oriented and functional JavaScript o
 ### R1D35
 Solved two codechef problems.
 
-### R1D34
+### R1D36
 Solved one codechef problem.
