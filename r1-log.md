@@ -114,3 +114,6 @@ Solved two codechef problems.
 
 ### R1D36
 Solved one codechef problem.
+
+### R1D37
+Solved one codechef problem.
