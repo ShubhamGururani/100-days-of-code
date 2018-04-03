@@ -116,4 +116,4 @@ Solved two codechef problems.
 Solved one codechef problem.
 
 ### R1D37
-Solved one codechef problem.
+Solved one codechef problem and completed object oriented and functional js part in freecodecamp.
