@@ -433,3 +433,13 @@
 
 **Link(s) to work**
 [Bear and Milky Cookies](https://www.codechef.com/problems/COOMILK)
+
+
+### Day 37: April 03, 2018 Tuesday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Today's questions were easy.
+
+**Link(s) to work**
+[Farmer Feb](https://www.codechef.com/problems/POTATOES)
