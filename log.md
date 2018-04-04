@@ -443,3 +443,13 @@
 
 **Link(s) to work**
 1. [Farmer Feb](https://www.codechef.com/problems/POTATOES), 2. [make-object-properties-private](https://www.freecodecamp.org/challenges/make-object-properties-private), 3. [iterate-over-arrays-with-map](https://www.freecodecamp.org/challenges/iterate-over-arrays-with-map), 4. [condense-arrays-with-reduce](https://www.freecodecamp.org/challenges/condense-arrays-with-reduce), 5. [filter-arrays-with-filter](https://www.freecodecamp.org/challenges/filter-arrays-with-filter), 6. [sort-arrays-with-sort](https://www.freecodecamp.org/challenges/sort-arrays-with-sort), 7. [reverse-arrays-with-reverse](https://www.freecodecamp.org/challenges/reverse-arrays-with-reverse), 8. [concatenate-arrays-with-concat](https://www.freecodecamp.org/challenges/concatenate-arrays-with-concat), 9. [split-strings-with-split](https://www.freecodecamp.org/challenges/split-strings-with-split), 10. [join-strings-with-join](https://www.freecodecamp.org/challenges/join-strings-with-join)
+
+
+### Day 38: April 04, 2018 Wednesday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Today's questions were easy.
+
+**Link(s) to work**
+1. [Chef-jumping](https://www.codechef.com/problems/OJUMPS), 2. [Please like me](https://www.codechef.com/problems/PLZLYKME)
