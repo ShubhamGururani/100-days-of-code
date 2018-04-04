@@ -447,9 +447,9 @@
 
 ### Day 38: April 04, 2018 Wednesday
 
-**Today's Progress**: Solved two codechef problems.
+**Today's Progress**: Solved two codechef problems. Started Basic Algorithm Scripting in js in freecodecamp.
 
-**Thoughts**: Today's questions were easy.
+**Thoughts**: Today's questions were easy. Basic Algorithm Scripting is also pretty easy. 
 
 **Link(s) to work**
 1. [Chef-jumping](https://www.codechef.com/problems/OJUMPS), 2. [Please like me](https://www.codechef.com/problems/PLZLYKME), 3. [reverse-a-string](https://www.freecodecamp.org/challenges/reverse-a-string), 4. [factorialize-a-number](https://www.freecodecamp.org/challenges/factorialize-a-number), 5. [check-for-palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
