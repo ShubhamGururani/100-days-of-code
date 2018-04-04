@@ -117,3 +117,6 @@ Solved one codechef problem.
 
 ### R1D37
 Solved one codechef problem and completed object oriented and functional js part in freecodecamp.
+
+### R1D38
+Solved teo codechef probelms and started Basic Algorithm Scripting in js in freecodecamp.
