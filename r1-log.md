@@ -120,3 +120,6 @@ Solved one codechef problem and completed object oriented and functional js part
 
 ### R1D38
 Solved teo codechef probelms and started Basic Algorithm Scripting in js in freecodecamp.
+
+### R1D39
+Solved two codechef problems. Completed the Basic Algorithm Scripting and JSOn APIs and AJAX part in freecodecamp.
