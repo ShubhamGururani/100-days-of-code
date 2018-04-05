@@ -453,3 +453,13 @@
 
 **Link(s) to work**
 1. [Chef-jumping](https://www.codechef.com/problems/OJUMPS), 2. [Please like me](https://www.codechef.com/problems/PLZLYKME), 3. [reverse-a-string](https://www.freecodecamp.org/challenges/reverse-a-string), 4. [factorialize-a-number](https://www.freecodecamp.org/challenges/factorialize-a-number), 5. [check-for-palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes), 6. [find-the-longest-word-in-a-string](https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string), 7. [title-case-a-sentence](https://www.freecodecamp.org/challenges/title-case-a-sentence), 8. [return-largest-numbers-in-arrays](https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays), 9. [confirm-the-ending](https://www.freecodecamp.org/challenges/confirm-the-ending), 10. [repeat-a-string-repeat-a-string](https://www.freecodecamp.org/challenges/repeat-a-string-repeat-a-string), 11. [truncate-a-string](https://www.freecodecamp.org/challenges/truncate-a-string), 12. [chunky-monkey](https://www.freecodecamp.org/challenges/chunky-monkey), 13. [slasher-flick](https://www.freecodecamp.org/challenges/slasher-flick), 14. [mutations](https://www.freecodecamp.org/challenges/mutations)
+
+
+### Day 39: April 05, 2018 Thursday
+
+**Today's Progress**: Solved two codechef problems. Completed Basic Algorithm Scripting in js as well as the JSON APIs and AJAX part in freecodecamp.
+
+**Thoughts**: Today's questions were easy. Basic Algorithm Scripting is also pretty easy. 
+
+**Link(s) to work**
+1. [Chef and String](https://www.codechef.com/problems/CHRL2), 2. [Minimum Maximum](https://www.codechef.com/problems/MNMX), 3. [falsy-bouncer](https://www.freecodecamp.org/challenges/falsy-bouncer), 4. [seek-and-destroy](https://www.freecodecamp.org/challenges/seek-and-destroy), 5. [where-do-i-belong](https://www.freecodecamp.org/challenges/where-do-i-belong), 6. [caesars-cipher](https://www.freecodecamp.org/challenges/caesars-cipher), 7. [trigger-click-events-with-jquery](https://www.freecodecamp.org/challenges/trigger-click-events-with-jquery), 8. [change-text-with-click-events](https://www.freecodecamp.org/challenges/change-text-with-click-events), 9. [get-json-with-the-jquery-getjson-method](https://www.freecodecamp.org/challenges/get-json-with-the-jquery-getjson-method), 10. [convert-json-data-to-html](https://www.freecodecamp.org/challenges/convert-json-data-to-html), 11. [render-images-from-data-sources](https://www.freecodecamp.org/challenges/render-images-from-data-sources), 12. [prefilter-json](https://www.freecodecamp.org/challenges/prefilter-json), 13. [get-geolocation-data](https://www.freecodecamp.org/challenges/get-geolocation-data)
