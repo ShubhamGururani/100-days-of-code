@@ -472,4 +472,4 @@
 **Thoughts**: Coded in JAVA today.
 
 **Link(s) to work**
-1. [Buying Sweets](https://www.codechef.com/problems/BUYING2)
+1. [Buying Sweets](https://www.codechef.com/problems/BUYING2), 2. [build-a-random-quote-machine](https://www.freecodecamp.org/challenges/build-a-random-quote-machine)
