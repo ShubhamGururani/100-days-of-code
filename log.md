@@ -463,3 +463,13 @@
 
 **Link(s) to work**
 1. [Chef and String](https://www.codechef.com/problems/CHRL2), 2. [Minimum Maximum](https://www.codechef.com/problems/MNMX), 3. [falsy-bouncer](https://www.freecodecamp.org/challenges/falsy-bouncer), 4. [seek-and-destroy](https://www.freecodecamp.org/challenges/seek-and-destroy), 5. [where-do-i-belong](https://www.freecodecamp.org/challenges/where-do-i-belong), 6. [caesars-cipher](https://www.freecodecamp.org/challenges/caesars-cipher), 7. [trigger-click-events-with-jquery](https://www.freecodecamp.org/challenges/trigger-click-events-with-jquery), 8. [change-text-with-click-events](https://www.freecodecamp.org/challenges/change-text-with-click-events), 9. [get-json-with-the-jquery-getjson-method](https://www.freecodecamp.org/challenges/get-json-with-the-jquery-getjson-method), 10. [convert-json-data-to-html](https://www.freecodecamp.org/challenges/convert-json-data-to-html), 11. [render-images-from-data-sources](https://www.freecodecamp.org/challenges/render-images-from-data-sources), 12. [prefilter-json](https://www.freecodecamp.org/challenges/prefilter-json), 13. [get-geolocation-data](https://www.freecodecamp.org/challenges/get-geolocation-data)
+
+
+### Day 40: April 06, 2018 Friday
+
+**Today's Progress**: Solved one codechef problem. No electricity right now. Will resume when power is back.
+
+**Thoughts**: Coded in JAVA today.
+
+**Link(s) to work**
+1. [Buying Sweets](https://www.codechef.com/problems/BUYING2)
