@@ -125,4 +125,7 @@ Solved teo codechef probelms and started Basic Algorithm Scripting in js in free
 Solved two codechef problems. Completed the Basic Algorithm Scripting and JSOn APIs and AJAX part in freecodecamp.
 
 ### R1D40
-Solved one codechef problem. Started tp build a randow quote machine for freecodecamp exercise.
+Solved one codechef problem. Started to build a random quote machine for freecodecamp exercise.
+
+### R1D41
+Solved one codechef problem. Worked on random quote machine for freecodecamp exercise.
