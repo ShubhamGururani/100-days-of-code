@@ -475,7 +475,6 @@
 1. [Buying Sweets](https://www.codechef.com/problems/BUYING2), 2. [build-a-random-quote-machine](https://www.freecodecamp.org/challenges/build-a-random-quote-machine)
 
 
-
 ### Day 41: April 07, 2018 Saturday
 
 **Today's Progress**: Solved one codechef problem.
@@ -484,3 +483,13 @@
 
 **Link(s) to work**
 1. [Candy Love](https://www.codechef.com/status/CNDLOVE)
+
+
+### Day 42: April 08, 2018 Sunday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Easy question. Could not even qualify. :(
+
+**Link(s) to work**
+1. [Chef and Friends](https://www.codechef.com/problems/FRK)
