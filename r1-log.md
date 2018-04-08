@@ -129,3 +129,6 @@ Solved one codechef problem. Started to build a random quote machine for freecod
 
 ### R1D41
 Solved one codechef problem. Worked on random quote machine for freecodecamp exercise.
+
+### R1D42
+Solved one codechef problem. Worked on random quote machine for freecodecamp exercise.
