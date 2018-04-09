@@ -493,3 +493,13 @@
 
 **Link(s) to work**
 1. [Chef and Friends](https://www.codechef.com/problems/FRK)
+
+
+### Day 43: April 09, 2018 Monday
+
+**Today's Progress**: Solved two codechef problems.
+
+**Thoughts**: Questions were easy.
+
+**Link(s) to work**
+1. [Devu and friendship testing](https://www.codechef.com/problems/CFRTEST), 2. [Puppy and game](https://www.codechef.com/problems/PUPPYGM)
