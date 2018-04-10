@@ -503,3 +503,13 @@
 
 **Link(s) to work**
 1. [Devu and friendship testing](https://www.codechef.com/problems/CFRTEST), 2. [Puppy and game](https://www.codechef.com/problems/PUPPYGM)
+
+
+### Day 44: April 10, 2018 Tuesday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[D - Triangle Count](https://www.codechef.com/problems/ZUBTRCNT)
