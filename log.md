@@ -513,3 +513,13 @@
 
 **Link(s) to work**
 [D - Triangle Count](https://www.codechef.com/problems/ZUBTRCNT)
+
+
+### Day 45: April 11, 2018 Wednesday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Palindromic substrings](https://www.codechef.com/problems/STRPALIN)
