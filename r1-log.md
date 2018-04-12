@@ -132,3 +132,15 @@ Solved one codechef problem. Worked on random quote machine for freecodecamp exe
 
 ### R1D42
 Solved one codechef problem. Worked on random quote machine for freecodecamp exercise.
+
+### R1D43
+Solved a codechef question.
+
+### R1D44
+Solved a codechef question.
+
+### R1D45
+Solved a codechef question.
+
+### R1D46
+Solved a codechef question.
