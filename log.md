@@ -523,3 +523,13 @@
 
 **Link(s) to work**
 [Palindromic substrings](https://www.codechef.com/problems/STRPALIN)
+
+
+### Day 46: April 12, 2018 Thursday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Dividing Stamps](https://www.codechef.com/problems/DIVIDING)
