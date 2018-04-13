@@ -533,3 +533,13 @@
 
 **Link(s) to work**
 [Dividing Stamps](https://www.codechef.com/problems/DIVIDING)
+
+
+### Day 47: April 13, 2018 Friday
+
+**Today's Progress**: Solved two codechef problems.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Chef and Proportion](https://www.codechef.com/problems/CHEFCBA), [Magic Elements](https://www.codechef.com/problems/ZOZ)
