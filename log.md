@@ -543,3 +543,13 @@
 
 **Link(s) to work**
 [Chef and Proportion](https://www.codechef.com/problems/CHEFCBA), [Magic Elements](https://www.codechef.com/problems/ZOZ)
+
+
+### Day 48: April 14, 2018 Saturday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Black And White Cells](https://www.codechef.com/problems/BWCELL)
