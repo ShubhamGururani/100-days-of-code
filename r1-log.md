@@ -147,3 +147,6 @@ Solved a codechef question.
 
 ### R1D47
 Solved two codechef questions.
+
+### R1D48
+Solved a codechef question.
