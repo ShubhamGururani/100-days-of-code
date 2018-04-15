@@ -553,3 +553,13 @@
 
 **Link(s) to work**
 [Black And White Cells](https://www.codechef.com/problems/BWCELL)
+
+
+### Day 49: April 15, 2018 Sunday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Number Game Revisited](https://www.codechef.com/problems/NUMGAME2)
