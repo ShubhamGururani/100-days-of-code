@@ -150,3 +150,6 @@ Solved two codechef questions.
 
 ### R1D48
 Solved a codechef question.
+
+### R1D49
+Solved a codechef question.
