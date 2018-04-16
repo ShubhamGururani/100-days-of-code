@@ -563,3 +563,13 @@
 
 **Link(s) to work**
 [Number Game Revisited](https://www.codechef.com/problems/NUMGAME2)
+
+
+### Day 50: April 16, 2018 Monday
+
+**Today's Progress**: Solved two codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Chang and the Perfect Function](https://www.codechef.com/problems/CHNGFUNC)
