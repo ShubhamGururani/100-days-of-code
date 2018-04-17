@@ -573,3 +573,13 @@
 
 **Link(s) to work**
 [Chang and the Perfect Function](https://www.codechef.com/problems/CHNGFUNC)
+
+
+### Day 51: April 17, 2018 Tuesday
+
+**Today's Progress**: Solved two codechef problems.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Suraj goes shopping](https://www.codechef.com/problems/ANUBTG), [Lucky Long](https://www.codechef.com/problems/LUCKY5)
