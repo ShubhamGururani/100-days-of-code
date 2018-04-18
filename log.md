@@ -583,3 +583,13 @@
 
 **Link(s) to work**
 [Suraj goes shopping](https://www.codechef.com/problems/ANUBTG), [Lucky Long](https://www.codechef.com/problems/LUCKY5)
+
+
+### Day 52: April 18, 2018 Wednesday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Chef and Numbers](https://www.codechef.com/problems/CHEFFED)
