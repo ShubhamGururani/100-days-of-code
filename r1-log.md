@@ -159,3 +159,9 @@ Solved a codechef question.
 
 ### R1D51
 Solved two codechef questions.
+
+### R1D52
+Solved a codechef question.
+
+### R1D53
+Solved a codechef question.
