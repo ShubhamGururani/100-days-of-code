@@ -593,3 +593,13 @@
 
 **Link(s) to work**
 [Chef and Numbers](https://www.codechef.com/problems/CHEFFED)
+
+
+### Day 53: April 19, 2018 Thursday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Code Crazy Minions](https://www.codechef.com/problems/NOCODING)
