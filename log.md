@@ -603,3 +603,13 @@
 
 **Link(s) to work**
 [Code Crazy Minions](https://www.codechef.com/problems/NOCODING)
+
+
+### Day 54: April 20, 2018 Friday
+
+**Today's Progress**: Solved two codechef problems.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Art](https://www.codechef.com/problems/MAKEART), [Copy-Paste](https://www.codechef.com/problems/RRCOPY)
