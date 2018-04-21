@@ -615,7 +615,7 @@
 [Art](https://www.codechef.com/problems/MAKEART), [Copy-Paste](https://www.codechef.com/problems/RRCOPY)
 
 
-### Day 55: April 21, 2018 Friday
+### Day 55: April 21, 2018 Saturday
 
 **Today's Progress**: Solved a codechef problem.
 
