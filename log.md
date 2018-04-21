@@ -613,3 +613,13 @@
 
 **Link(s) to work**
 [Art](https://www.codechef.com/problems/MAKEART), [Copy-Paste](https://www.codechef.com/problems/RRCOPY)
+
+
+### Day 55: April 21, 2018 Friday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Distinct Codes](https://www.codechef.com/problems/DISTCODE)
