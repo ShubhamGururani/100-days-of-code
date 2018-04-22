@@ -623,3 +623,13 @@
 
 **Link(s) to work**
 [Distinct Codes](https://www.codechef.com/problems/DISTCODE)
+
+
+### Day 56: April 22, 2018 Sunday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Word Counting](https://www.codechef.com/problems/WCOUNT)
