@@ -171,3 +171,6 @@ Solved two codechef questions.
 
 ### R1D55
 Solved a codechef question.
+
+### R1D56
+Solved a codechef question.
