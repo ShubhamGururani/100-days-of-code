@@ -633,3 +633,13 @@
 
 **Link(s) to work**
 [Word Counting](https://www.codechef.com/problems/WCOUNT)
+
+
+### Day 57: April 23, 2018 Monday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Uncle Johny](https://www.codechef.com/problems/JOHNY)
