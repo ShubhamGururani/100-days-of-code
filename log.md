@@ -643,3 +643,13 @@
 
 **Link(s) to work**
 [Uncle Johny](https://www.codechef.com/problems/JOHNY)
+
+
+### Day 58: April 24, 2018 Tuesday
+
+**Today's Progress**: Solved a codechef problem. College fest going on.. enjoyed a lot...
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Chef goes Left Right Left](https://www.codechef.com/problems/CLRL)
