@@ -177,3 +177,6 @@ Solved a codechef question.
 
 ### R1D57
 Solved a codechef question.
+
+### R1D58
+Solved some questions on codechef and hackerearth.
