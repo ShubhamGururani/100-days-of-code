@@ -653,3 +653,13 @@
 
 **Link(s) to work**
 [Chef goes Left Right Left](https://www.codechef.com/problems/CLRL)
+
+
+### Day 59: April 25, 2018 Wednesday
+
+**Today's Progress**: Solved a codechef problem. College fest ended today...
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Laddu](https://www.codechef.com/problems/LADDU)
