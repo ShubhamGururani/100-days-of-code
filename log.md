@@ -663,3 +663,13 @@
 
 **Link(s) to work**
 [Laddu](https://www.codechef.com/problems/LADDU)
+
+
+### Day 60: April 26, 2018 Thursday
+
+**Today's Progress**: Solved a codechef problem. Tests start tomorrow. :|
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Chef and Subset](https://www.codechef.com/problems/CHEFSETC)
