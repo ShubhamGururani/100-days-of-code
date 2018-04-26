@@ -183,3 +183,6 @@ Solved some questions on codechef and hackerearth.
 
 ### R1D59
 Solved a codechef question.
+
+### R1D60
+Solved a codechef question. College tests start tomorrow.
