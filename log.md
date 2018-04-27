@@ -673,3 +673,13 @@
 
 **Link(s) to work**
 [Chef and Subset](https://www.codechef.com/problems/CHEFSETC)
+
+
+### Day 61: April 27, 2018 Friday
+
+**Today's Progress**: Solved a codechef problem. Tests started today. :|
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Temple Land](https://www.codechef.com/problems/TEMPLELA)
