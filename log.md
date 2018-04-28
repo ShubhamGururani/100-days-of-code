@@ -683,3 +683,13 @@
 
 **Link(s) to work**
 [Temple Land](https://www.codechef.com/problems/TEMPLELA)
+
+
+### Day 62: April 28, 2018 Saturday
+
+**Today's Progress**: Solved a codechef problem. Tests started today. :|
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Smallest Numbers of Notes](https://www.codechef.com/problems/FLOW005)
