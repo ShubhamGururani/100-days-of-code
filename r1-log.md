@@ -186,3 +186,9 @@ Solved a codechef question.
 
 ### R1D60
 Solved a codechef question. College tests start tomorrow.
+
+### R1D61
+Solved a codechef question. 
+
+### R1D62
+Solved a codechef question. 
