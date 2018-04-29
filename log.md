@@ -687,9 +687,19 @@
 
 ### Day 62: April 28, 2018 Saturday
 
-**Today's Progress**: Solved a codechef problem. Tests started today. :|
+**Today's Progress**: Solved a codechef problem. 
 
 **Thoughts**: Easy.
 
 **Link(s) to work**
 [Smallest Numbers of Notes](https://www.codechef.com/problems/FLOW005)
+
+
+### Day 63: April 29, 2018 Sunday
+
+**Today's Progress**: Solved a codechef problem. 
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Chef and Fruits](https://www.codechef.com/problems/FRUITS)
