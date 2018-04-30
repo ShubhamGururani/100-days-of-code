@@ -194,4 +194,7 @@ Solved a codechef question.
 Solved a codechef question. 
 
 ### R1D63
-Solved a codechef question. 
+Solved a codechef question and one on hackerearth. 
+
+### R1D64
+Solved a codechef question and another on hackerearth.
