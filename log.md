@@ -697,9 +697,19 @@
 
 ### Day 63: April 29, 2018 Sunday
 
-**Today's Progress**: Solved a codechef problem. 
+**Today's Progress**: Solved a codechef problem and some on hackerearth. 
 
 **Thoughts**: Easy.
 
 **Link(s) to work**
 [Chef and Fruits](https://www.codechef.com/problems/FRUITS)
+
+
+### Day 64: April 30, 2018 Monday
+
+**Today's Progress**: Solved a codechef problem and one on hackerearth. 
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Coupon System](https://www.codechef.com/problems/COUPSYS)
