@@ -717,7 +717,7 @@
 
 ### Day 65: May 01, 2018 Tuesday
 
-**Today's Progress**: Solved a codechef problem. Tests ended today. 
+**Today's Progress**: Solved a codechef problem. Tests ended today. Also tries codingame.com . Pretty cool!
 
 **Thoughts**: Easy.
 
