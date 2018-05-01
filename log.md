@@ -713,3 +713,13 @@
 
 **Link(s) to work**
 [Coupon System](https://www.codechef.com/problems/COUPSYS)
+
+
+### Day 65: May 01, 2018 Tuesday
+
+**Today's Progress**: Solved a codechef problem. Tests ended today. 
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Little Elephant and Lemonade](https://www.codechef.com/problems/LELEMON)
