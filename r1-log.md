@@ -198,3 +198,6 @@ Solved a codechef question and one on hackerearth.
 
 ### R1D64
 Solved a codechef question and another on hackerearth.
+
+### R1D65
+Solved a codechef question. Tests ended today.
