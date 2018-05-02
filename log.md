@@ -717,9 +717,19 @@
 
 ### Day 65: May 01, 2018 Tuesday
 
-**Today's Progress**: Solved a codechef problem. Tests ended today. Also tries codingame.com . Pretty cool!
+**Today's Progress**: Solved a codechef problem. Tests ended today. Also tried codingame.com . Pretty cool!
 
 **Thoughts**: Easy.
 
 **Link(s) to work**
 [Little Elephant and Lemonade](https://www.codechef.com/problems/LELEMON)
+
+
+### Day 66: May 02, 2018 Wednesday
+
+**Today's Progress**: Solved a codechef problem. No electricity. Laptop running low on power. :(
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[One more weird game](https://www.codechef.com/problems/OMWG)
