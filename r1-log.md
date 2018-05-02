@@ -201,3 +201,6 @@ Solved a codechef question and another on hackerearth.
 
 ### R1D65
 Solved a codechef question. Tests ended today.
+
+### R1D66
+Solved a codechef question. No electricity... :(
