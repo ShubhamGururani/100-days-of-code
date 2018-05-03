@@ -733,3 +733,14 @@
 
 **Link(s) to work**
 [One more weird game](https://www.codechef.com/problems/OMWG)
+
+
+### Day 67: May 03, 2018 Thursday
+
+**Today's Progress**: Solved a codechef problem. Power back on.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Two vs Ten](https://www.codechef.com/problems/TWOVSTEN)
+[CodinGame](https://www.codingame.com)
