@@ -744,3 +744,13 @@
 **Link(s) to work**
 [Two vs Ten](https://www.codechef.com/problems/TWOVSTEN)
 [CodinGame](https://www.codingame.com)
+
+
+### Day 68: May 04, 2018 Friday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Tweedle-Dee and Tweedle-Dum](https://www.codechef.com/problems/TWEED)
