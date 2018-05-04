@@ -206,4 +206,7 @@ Solved a codechef question. Tests ended today.
 Solved a codechef question. No electricity... :(
 
 ### R1D67
-Solved a codechef question. Solved some questions on codingame
+Solved a codechef question. Solved some questions on codingame.
+
+### R1D68
+Solved a codechef question. Solved some questions on codingame.
