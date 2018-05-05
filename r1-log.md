@@ -210,3 +210,6 @@ Solved a codechef question. Solved some questions on codingame.
 
 ### R1D68
 Solved a codechef question. Solved some questions on codingame.
+
+### R1D69
+Solved a codechef question. Solved some questions on codingame.
