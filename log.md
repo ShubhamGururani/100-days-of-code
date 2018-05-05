@@ -754,3 +754,15 @@
 
 **Link(s) to work**
 [Tweedle-Dee and Tweedle-Dum](https://www.codechef.com/problems/TWEED)
+[CodinGame](https://www.codingame.com)
+
+
+### Day 69: May 05, 2018 Saturday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Chef and Rainbow Array](https://www.codechef.com/problems/RAINBOWA)
+[CodinGame](https://www.codingame.com)
