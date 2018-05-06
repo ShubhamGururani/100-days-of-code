@@ -766,3 +766,13 @@
 **Link(s) to work**
 [Chef and Rainbow Array](https://www.codechef.com/problems/RAINBOWA)
 [CodinGame](https://www.codingame.com)
+
+
+### Day 70: May 06, 2018 Sunday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Jumping in the hills](https://www.codechef.com/problems/HILLS)
