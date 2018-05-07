@@ -216,3 +216,6 @@ Solved a codechef question. Solved some questions on codingame.
 
 ### R1D70
 Solved a codechef question.
+
+### R1D71
+Solved a codechef question.
