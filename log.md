@@ -776,3 +776,13 @@
 
 **Link(s) to work**
 [Jumping in the hills](https://www.codechef.com/problems/HILLS)
+
+
+### Day 71: May 07, 2018 Monday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Quentin Tarantino](https://www.codechef.com/problems/KOL16J)
