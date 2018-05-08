@@ -786,3 +786,13 @@
 
 **Link(s) to work**
 [Quentin Tarantino](https://www.codechef.com/problems/KOL16J)
+
+
+### Day 72: May 08, 2018 Tuesday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Good Joke!](https://www.codechef.com/problems/RRJOKE)
