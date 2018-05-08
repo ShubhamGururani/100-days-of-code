@@ -219,3 +219,6 @@ Solved a codechef question.
 
 ### R1D71
 Solved a codechef question.
+
+### R1D72
+Solved a codechef question.
