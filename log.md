@@ -796,3 +796,13 @@
 
 **Link(s) to work**
 [Good Joke!](https://www.codechef.com/problems/RRJOKE)
+
+
+### Day 73: May 09, 2018 Wednesday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Cut the Board](https://www.codechef.com/problems/CUTBOARD)
