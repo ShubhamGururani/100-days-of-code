@@ -222,3 +222,6 @@ Solved a codechef question.
 
 ### R1D72
 Solved a codechef question.
+
+### R1D73
+Solved a codechef question.
