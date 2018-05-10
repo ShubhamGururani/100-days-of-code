@@ -806,3 +806,14 @@
 
 **Link(s) to work**
 [Cut the Board](https://www.codechef.com/problems/CUTBOARD)
+
+
+### Day 74: May 10, 2018 Thursday
+
+**Today's Progress**: Solved two codechef problems.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Number Mirror](https://www.codechef.com/problems/START01)
+[Fit Squares in Triangle](https://www.codechef.com/problems/TRISQ)
