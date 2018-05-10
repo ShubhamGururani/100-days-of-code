@@ -225,3 +225,6 @@ Solved a codechef question.
 
 ### R1D73
 Solved a codechef question.
+
+### R1D74
+Solved two codechef questions.
