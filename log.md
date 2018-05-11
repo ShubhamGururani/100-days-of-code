@@ -817,3 +817,13 @@
 **Link(s) to work**
 [Number Mirror](https://www.codechef.com/problems/START01)
 [Fit Squares in Triangle](https://www.codechef.com/problems/TRISQ)
+
+
+### Day 75: May 11, 2018 Friday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Lucky Four](https://www.codechef.com/problems/LUCKFOUR)
