@@ -827,3 +827,13 @@
 
 **Link(s) to work**
 [Lucky Four](https://www.codechef.com/problems/LUCKFOUR)
+
+
+### Day 76: May 12, 2018 Saturday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Chef and Subarrays](https://www.codechef.com/problems/CHEFARRP)
