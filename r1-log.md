@@ -234,3 +234,6 @@ Solved a codechef question.
 
 ### R1D76
 Solved a codechef question.
+
+### R1D77
+Solved a codechef question.
