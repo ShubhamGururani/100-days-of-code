@@ -837,3 +837,13 @@
 
 **Link(s) to work**
 [Chef and Subarrays](https://www.codechef.com/problems/CHEFARRP)
+
+
+### Day 77: May 13, 2018 Sunday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Ciel and Receipt](https://www.codechef.com/problems/CIELRCPT)
