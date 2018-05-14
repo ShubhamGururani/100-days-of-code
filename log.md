@@ -847,3 +847,13 @@
 
 **Link(s) to work**
 [Ciel and Receipt](https://www.codechef.com/problems/CIELRCPT)
+
+
+### Day 78: May 14, 2018 Monday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Chef and Remissness](https://www.codechef.com/problems/REMISS)
