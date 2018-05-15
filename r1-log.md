@@ -240,3 +240,6 @@ Solved a codechef question.
 
 ### R1D78
 Solved a codechef question.
+
+### R1D79
+Solved a codechef question.
