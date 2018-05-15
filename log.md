@@ -857,3 +857,13 @@
 
 **Link(s) to work**
 [Chef and Remissness](https://www.codechef.com/problems/REMISS)
+
+
+### Day 79: May 15, 2018 Tuesday
+
+**Today's Progress**: Solved one codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Mahasena](https://www.codechef.com/problems/AMR15A)
