@@ -243,3 +243,6 @@ Solved a codechef question.
 
 ### R1D79
 Solved a codechef question.
+
+### R1D80
+Solved a codechef question. Semester exams start tomorrow.
