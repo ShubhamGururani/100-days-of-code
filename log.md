@@ -867,3 +867,13 @@
 
 **Link(s) to work**
 [Mahasena](https://www.codechef.com/problems/AMR15A)
+
+
+### Day 80: May 16, 2018 Wednesday
+
+**Today's Progress**: Solved one codechef problem. End sem exams start tomorrow.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Digit Longest Increasing Subsequences 2](https://www.codechef.com/problems/LISDIGIT)
