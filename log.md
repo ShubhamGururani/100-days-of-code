@@ -877,3 +877,13 @@
 
 **Link(s) to work**
 [Digit Longest Increasing Subsequences 2](https://www.codechef.com/problems/LISDIGIT)
+
+
+### Day 81: May 17, 2018 Thursday
+
+**Today's Progress**: Solved one codechef problem. Exams going on!!!
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[The Block Game](https://www.codechef.com/problems/PALL01)
