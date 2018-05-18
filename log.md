@@ -887,3 +887,13 @@
 
 **Link(s) to work**
 [The Block Game](https://www.codechef.com/problems/PALL01)
+
+
+### Day 82: May 18, 2018 Friday
+
+**Today's Progress**: Solved one codechef problem. Exams going on!!!
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Small Factorial](https://www.codechef.com/problems/FLOW018)
