@@ -249,3 +249,6 @@ Solved a codechef question. Semester exams start tomorrow.
 
 ### R1D81
 Solved a codechef question. Exams going on!!
+
+### R1D82
+Solved a codechef question. Exams going on!
