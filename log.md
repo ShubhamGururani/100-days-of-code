@@ -897,3 +897,13 @@
 
 **Link(s) to work**
 [Small Factorial](https://www.codechef.com/problems/FLOW018)
+
+
+### Day 83: May 19, 2018 Saturday
+
+**Today's Progress**: Solved one codechef problem. Exams going on!!!
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Tanu and Head-bob](https://www.codechef.com/problems/HEADBOB)
