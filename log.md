@@ -907,3 +907,13 @@
 
 **Link(s) to work**
 [Tanu and Head-bob](https://www.codechef.com/problems/HEADBOB)
+
+
+### Day 84: May 20, 2018 Sunday
+
+**Today's Progress**: Solved one codechef problem. Exams going on!!!
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Packaging Cupcakes](https://www.codechef.com/problems/MUFFINS3)
