@@ -255,3 +255,6 @@ Solved a codechef question. Exams going on!
 
 ### R1D83
 Solved a codechef question. Exams going on!!!
+
+### R1D84
+Solved a codechef question. Exams going on!!!
