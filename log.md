@@ -917,3 +917,13 @@
 
 **Link(s) to work**
 [Packaging Cupcakes](https://www.codechef.com/problems/MUFFINS3)
+
+
+### Day 85: May 21, 2018 Monday
+
+**Today's Progress**: Solved one codechef problem. Exams going on!!!
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Second Largest](https://www.codechef.com/problems/FLOW017)
