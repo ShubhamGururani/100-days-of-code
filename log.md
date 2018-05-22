@@ -927,3 +927,13 @@
 
 **Link(s) to work**
 [Second Largest](https://www.codechef.com/problems/FLOW017)
+
+
+### Day 86: May 22, 2018 Tuesday
+
+**Today's Progress**: Solved one codechef problem. Exams going on!!!
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Valid Triangles](https://www.codechef.com/problems/FLOW013)
