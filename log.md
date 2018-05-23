@@ -937,3 +937,13 @@
 
 **Link(s) to work**
 [Valid Triangles](https://www.codechef.com/problems/FLOW013)
+
+
+### Day 87: May 23, 2018 Wednesday
+
+**Today's Progress**: Solved one codechef problem. Exams going on!!!
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Primality Test](https://www.codechef.com/problems/PRB01)
