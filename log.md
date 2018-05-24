@@ -947,3 +947,13 @@
 
 **Link(s) to work**
 [Primality Test](https://www.codechef.com/problems/PRB01)
+
+
+### Day 88: May 24, 2018 Thursday
+
+**Today's Progress**: Solved one codechef problem. Exams going on!!!
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Three Way Communication](https://www.codechef.com/problems/COMM3)
