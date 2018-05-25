@@ -957,3 +957,13 @@
 
 **Link(s) to work**
 [Three Way Communication](https://www.codechef.com/problems/COMM3)
+
+
+### Day 89: May 25, 2018 Friday
+
+**Today's Progress**: Solved one codechef problem. Exams going on!!!
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Coins and Triangle](https://www.codechef.com/problems/TRICOIN)
