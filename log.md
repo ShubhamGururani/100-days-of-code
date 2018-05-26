@@ -967,3 +967,14 @@
 
 **Link(s) to work**
 [Coins and Triangle](https://www.codechef.com/problems/TRICOIN)
+
+
+### Day 90: May 26, 2018 Saturday
+
+**Today's Progress**: Solved two codechef problems (after a loooong time!). Just one exam left. :)
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+1. [Id and Ship](https://www.codechef.com/problems/FLOW010)
+2. [Malvika is peculiar about color of balloons](https://www.codechef.com/problems/CHN09)
