@@ -279,3 +279,6 @@ Solved two codechef questions after a long time... Just one exam left. :)
 
 ### R1D91
 Solved a codechef question. One exam left.
+
+### R1D92
+Solved a codechef question. One exam left.
