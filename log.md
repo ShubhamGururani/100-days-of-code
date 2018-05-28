@@ -988,3 +988,13 @@
 
 **Link(s) to work**
 [Add Two Numbers](https://www.codechef.com/problems/FLOW001)
+
+
+### Day 92: May 28, 2018 Monday
+
+**Today's Progress**: Solved a codechef problem. Just one exam left.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Secret Recipe](https://www.codechef.com/problems/CHEFRUN)
