@@ -998,3 +998,13 @@
 
 **Link(s) to work**
 [Secret Recipe](https://www.codechef.com/problems/CHEFRUN)
+
+
+### Day 93: May 29, 2018 Tuesday
+
+**Today's Progress**: Solved a codechef problem. Exams over and back home.  :D
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Devu and Grapes](https://www.codechef.com/problems/DEVUGRAP)
