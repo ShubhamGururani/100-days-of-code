@@ -285,3 +285,6 @@ Solved a codechef question. One exam left.
 
 ### R1D93
 Solved a codechef question. Exams over. :D
+
+### R1D94
+Solved a codechef question.
