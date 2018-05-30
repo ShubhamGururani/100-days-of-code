@@ -1008,3 +1008,13 @@
 
 **Link(s) to work**
 [Devu and Grapes](https://www.codechef.com/problems/DEVUGRAP)
+
+
+### Day 94: May 30, 2018 Wednesday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Movie Weekend](https://www.codechef.com/problems/MOVIEWKN)
