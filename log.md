@@ -1028,3 +1028,13 @@
 
 **Link(s) to work**
 [Reverse The Number](https://www.codechef.com/problems/FLOW007)
+
+
+### Day 96: June 01, 2018 Friday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Snake Procession](https://www.codechef.com/problems/SNAKPROC)
