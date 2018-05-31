@@ -288,3 +288,6 @@ Solved a codechef question. Exams over. :D
 
 ### R1D94
 Solved a codechef question.
+
+### R1D95
+Solved a codechef question.
