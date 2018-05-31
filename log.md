@@ -1018,3 +1018,13 @@
 
 **Link(s) to work**
 [Movie Weekend](https://www.codechef.com/problems/MOVIEWKN)
+
+
+### Day 95: May 31, 2018 Thursday
+
+**Today's Progress**: Solved a codechef problem.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**
+[Reverse The Number](https://www.codechef.com/problems/FLOW007)
