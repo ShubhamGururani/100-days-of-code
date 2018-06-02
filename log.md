@@ -1038,3 +1038,13 @@
 
 **Link(s) to work**
 [Snake Procession](https://www.codechef.com/problems/SNAKPROC)
+
+
+### Day 97: June 02, 2018 Saturday
+
+**Today's Progress**: Solved a codechef question.
+
+**Thoughts**: Easy
+
+**Link(s) to work**
+[Sum in a triangle](https://www.codechef.com/problems/SUMTRIAN)
