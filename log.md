@@ -1048,3 +1048,13 @@
 
 **Link(s) to work**
 [Sum in a triangle](https://www.codechef.com/problems/SUMTRIAN)
+
+
+### Day 98: June 03, 2018 Sunday
+
+**Today's Progress**: Solved a codechef question.
+
+**Thoughts**: Easy
+
+**Link(s) to work**
+[The Deadly Sin](https://www.codechef.com/problems/SINS)
