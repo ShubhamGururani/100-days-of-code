@@ -297,3 +297,6 @@ Solved a codechef question.
 
 ### R1D97
 Solved a codechef question.
+
+### R1D98
+Solved a codechef question.
