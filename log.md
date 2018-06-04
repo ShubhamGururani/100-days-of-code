@@ -1058,3 +1058,13 @@
 
 **Link(s) to work**
 [The Deadly Sin](https://www.codechef.com/problems/SINS)
+
+
+### Day 99: June 04, 2018 Monday
+
+**Today's Progress**: Solved a codechef question.
+
+**Thoughts**: Easy
+
+**Link(s) to work**
+[Rupsa and the Game](https://www.codechef.com/problems/RGAME)
