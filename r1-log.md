@@ -303,3 +303,6 @@ Solved a codechef question.
 
 ### R1D99
 Solved a codechef question.
+
+### R1D100
+Solved a codechef question.
