@@ -1068,3 +1068,13 @@
 
 **Link(s) to work**
 [Rupsa and the Game](https://www.codechef.com/problems/RGAME)
+
+
+### Day 100: June 05, 2018 Tuesday
+
+**Today's Progress**: Solved a codechef question.
+
+**Thoughts**: Easy. Finally complete!
+
+**Link(s) to work**
+[Entrance Exam] (https://www.codechef.com/problems/ENTEXAM)
