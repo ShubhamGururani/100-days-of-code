@@ -1,0 +1,8 @@
+# #100DaysOfCode Log - Round 2 - [Shubham Gururani]
+
+The log of my #100DaysOfCode challenge. Started on [March 30, Saturday, 2019].
+
+## Log
+
+### R2D1
+Solved a question on codechef. Participated in March Lunchtime on codechef.
