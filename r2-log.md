@@ -6,3 +6,6 @@ The log of my #100DaysOfCode challenge. Started on [March 30, Saturday, 2019].
 
 ### R2D1
 Solved a question on codechef. Participated in March Lunchtime on codechef.
+
+### R2D2
+Solved a question on codechef.
