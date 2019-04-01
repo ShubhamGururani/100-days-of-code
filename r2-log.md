@@ -11,4 +11,4 @@ Solved a question on codechef. Participated in March Lunchtime on codechef.
 Solved a question on codechef.
 
 ### R2D3
-Solved a question on codechef.
+Solved two questions on codechef. Moved to medium level in codechef.
