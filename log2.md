@@ -1,10 +1,30 @@
 # 100 Days Of Code - Log
 
 
-### Day 1: February 26, 2018 Monday
+### Day 1: March 30, 2019 Saturday
 
-**Today's Progress**: I've gone through some exercises on FreeCodeCamp.
+**Today's Progress**: Solved a question on codechef. Participated in March Lunchtime on codechef.
 
-**Thoughts**: HTML feels easy enough.
+**Thoughts**: First competition on codechef.
 
 **Link(s) to work**:
+
+
+### Day 2: March 31, 2019 Sunday
+
+**Today's Progress**: Solved a question on codechef.
+
+**Thoughts**: :|
+
+**Link(s) to work**:
+
+
+### Day 3: April 1, 2019 Monday
+
+**Today's Progress**: Solved two questions on codechef. Moved to medium level in codechef.
+
+**Thoughts**: :)
+
+**Link(s) to work**:
+[Closing the Tweets](https://www.codechef.com/problems/TWTCLOSE)
+: [My Solution](https://github.com/ShubhamGururani/CodeChef-practice/blob/master/medium/Closing%20the%20tweets.cpp)
