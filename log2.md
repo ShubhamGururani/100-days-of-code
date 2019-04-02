@@ -28,3 +28,14 @@
 **Link(s) to work**:
 [Closing the Tweets](https://www.codechef.com/problems/TWTCLOSE)
 : [My Solution](https://github.com/ShubhamGururani/CodeChef-practice/blob/master/medium/Closing%20the%20tweets.cpp)
+
+
+### Day 4: April 2, 2019 Tuesday
+
+**Today's Progress**: Solved a question on codechef.
+
+**Thoughts**: :/
+
+**Link(s) to work**:
+[Bytelandian gold coins](https://www.codechef.com/problems/COINS)
+: [My Solution](https://github.com/ShubhamGururani/CodeChef-practice/blob/master/medium/Bytelandian%20gold%20coins.cpp)
