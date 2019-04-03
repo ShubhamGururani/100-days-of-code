@@ -1077,4 +1077,4 @@
 **Thoughts**: Easy. Finally complete!
 
 **Link(s) to work**
-[Entrance Exam] (https://www.codechef.com/problems/ENTEXAM)
+[Entrance Exam](https://www.codechef.com/problems/ENTEXAM)
