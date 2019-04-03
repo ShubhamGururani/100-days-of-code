@@ -39,3 +39,14 @@
 **Link(s) to work**:
 [Bytelandian gold coins](https://www.codechef.com/problems/COINS)
 : [My Solution](https://github.com/ShubhamGururani/CodeChef-practice/blob/master/medium/Bytelandian%20gold%20coins.cpp)
+
+
+### Day 5: April 3, 2019 Wednesday
+
+**Today's Progress**: Solved a question on codechef.
+
+**Thoughts**: :D
+
+**Link(s) to work**:
+[Root of the Problem](https://www.codechef.com/problems/TREEROOT)
+: [My Solution](https://github.com/ShubhamGururani/CodeChef-practice/blob/master/medium/Root%20of%20the%20Problem.cpp)
