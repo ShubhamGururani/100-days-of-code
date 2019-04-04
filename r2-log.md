@@ -18,3 +18,6 @@ Solved a question on codechef.
 
 ### R2D5
 Solved a question on codechef.
+
+### R2D6
+Solved a question on codechef.
