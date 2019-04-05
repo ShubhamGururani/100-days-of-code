@@ -61,3 +61,14 @@
 **Link(s) to work**:
 [One Dimensional Kingdoms](https://www.codechef.com/problems/ONEKING)
 : [My Solution](https://github.com/ShubhamGururani/CodeChef-practice/blob/master/medium/One%20Dimensional%20Kingdoms.cpp)
+
+
+### Day 7: April 5, 2019 Friday
+
+**Today's Progress**: Solved a question on codechef.
+
+**Thoughts**: :D
+
+**Link(s) to work**:
+[K Concatenation](https://www.codechef.com/problems/KCON)
+: [My Solution](https://github.com/ShubhamGururani/CodeChef-practice/blob/master/Easy/K-Concatenation.cpp)
