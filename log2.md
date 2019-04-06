@@ -72,3 +72,12 @@
 **Link(s) to work**:
 [K Concatenation](https://www.codechef.com/problems/KCON)
 : [My Solution](https://github.com/ShubhamGururani/CodeChef-practice/blob/master/Easy/K-Concatenation.cpp)
+
+
+### Day 8: April 6, 2019 Saturday
+
+**Today's Progress**: Participated in CodeJam .
+
+**Thoughts**: :
+
+**Link(s) to work**:
