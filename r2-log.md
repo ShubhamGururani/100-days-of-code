@@ -24,3 +24,6 @@ Solved a question on codechef.
 
 ### R2D7
 Solved a question on codechef.
+
+### R2D8
+Participated in codejam.
